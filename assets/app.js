@@ -189,7 +189,7 @@
     Array.prototype.forEach.call(document.querySelectorAll('.toc a'), function (a) {
       a.addEventListener('click', function () { selectTab('profile'); });
     });
-    if (location.hash === '#profile' || /^#p-/.test(location.hash)) { selectTab('profile'); if (location.hash === '#profile') setTimeout(function () { window.scrollTo(0, 0); }, 0); }
+    if (location.hash === '#profile' || /^#p-/.test(location.hash)) { selectTab('profile'); setTimeout(function () { var t = location.hash === '#profile' ? null : document.querySelector(location.hash); if (t) t.scrollIntoView(); else window.scrollTo(0, 0); }, 0); }
 
     var latestP = fetchJson('data/report.json').catch(function () { return window.REPORT_DATA; });
     var indexP = fetchJson('data/archive/index.json').catch(function () { return window.REPORT_INDEX || []; });
