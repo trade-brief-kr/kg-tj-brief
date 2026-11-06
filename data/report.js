@@ -1,31 +1,31 @@
 window.REPORT_DATA = {
-  "date": "2026-11-06",
-  "generatedAt": "2026-11-06T08:34:00+09:00",
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T08:19:06+09:00",
   "coverage": "최근 24시간 발표 중심",
-  "headline": "전성식 대사·타지크 산업장관, 공동 실행계획·우선 투자사업 발굴 협의 확인",
+  "headline": "주한 키르기스 대사, KOTRA 사무소 개설 계획·할랄 인증 협력 소개",
   "sections": [
     {
       "id": "korea",
       "title": "① 한국 관련 외교·인사",
       "items": [
         {
-          "tag": "[한국·타지키스탄]",
+          "tag": "[한국·키르기스스탄]",
           "countries": [
             "한국",
-            "타지키스탄"
+            "키르기스스탄"
           ],
-          "title": "산업장관–한국대사 투자협력 면담",
+          "title": "주한 대사의 통상협력 후속사업 소개",
           "bullets": [
             {
-              "text": "전성식 주타지키스탄 대사는 4일 셰랄리 카비르 산업신기술부 장관과 한국 기업 투자·산업기술 도입 협의. 산업부 발표를 인용한 Avesta·PRIME의 5일 보도로 확인.",
-              "source": "Avesta.tj",
-              "url": "https://avesta.tj/2026/11/05/tadzhikistan-nameren-rasshirit-promyshlennoe-sotrudnichestvo-s-yuzhnoj-koreej/"
+              "text": "6일 공개된 주한 키르기스 대사 인터뷰에서 한국 기관과의 할랄 인증사업 추진, KOTRA 키르기스스탄 사무소 개설 계획 및 2027년 제2차 무역·투자촉진 공동위원회 개최 계획 소개.",
+              "source": "The Korea Times",
+              "url": "https://www.koreatimes.co.kr/amp/foreignaffairs/20261106/kyrgyzstan-seeks-to-turn-korea-summit-pledges-into-concrete-projects"
             },
             {
-              "text": "양측은 공동 실행계획 수립과 우선 투자사업 선정 필요성 확인. 사업목록·금액·재원 확정은 미발표."
+              "text": "수력·핵심광물·가공산업 분야 한국 기업 참여 희망 표명; 인터뷰에 KOTRA 사무소 개소일·개별 투자계약·금융확정 내역 미제시."
             },
             {
-              "text": "대사 인사: 양방향 4개 대사직의 임명·부임·신임장·이임 관련 신규 발표 미확인. 한국 양국 공관 접속 오류와 주한 양국 공관의 접근·뉴스목록 확인 제약 지속."
+              "text": "대사 인사: 양국 주재 한국대사 및 주한 키르기스스탄·타지키스탄 대사의 임명·부임·신임장·이임 관련 수집 구간 내 신규 발표 미확인."
             }
           ]
         }
@@ -36,21 +36,38 @@ window.REPORT_DATA = {
       "title": "② 타지키스탄·키르기스스탄",
       "items": [
         {
-          "tag": "[타지키스탄]",
+          "tag": "[타지키스탄·카자흐스탄]",
           "countries": [
-            "타지키스탄"
+            "타지키스탄",
+            "카자흐스탄"
           ],
-          "title": "관개청장 교체·국영항공사 사장 해임",
+          "title": "에너지장관 간 석유·가스 협력 논의",
           "bullets": [
             {
-              "text": "[누락 보완·11.04] 정부는 자파르베크 다블라트조다 관개·토지개량청장을 해임하고 자리프 발리조다 나지리를 후임으로 임명. 같은 날 Khovar에 정부결정 공개.",
-              "source": "НИАТ \"Ховар\"",
-              "url": "https://khovar.tj/rus/2026/11/postanovleniya-pravitelstva-respubliki-tadzhikistan-132/"
+              "text": "6일 아스타나에서 타지키스탄 달레르 주마 에너지장관과 카자흐스탄 예를란 아켄제노프 에너지장관의 전력·석유·가스 분야 협력 확대 논의.",
+              "source": "Avesta.tj",
+              "url": "https://avesta.tj/2026/11/06/tadzhikistan-i-kazahstan-rasshiryat-sotrudnichestvo-v-neftegazovoj-sfere/"
             },
             {
-              "text": "같은 날 파르비즈 압두라힘 쇼드몬조다 타지크항공 사장 해임 결정. 해당 정부결정 묶음에서 후임 인사 미확인.",
-              "source": "НИАТ \"Ховар\"",
-              "url": "https://khovar.tj/rus/2026/11/postanovleniya-pravitelstva-respubliki-tadzhikistan-132/"
+              "text": "양국 소관 부처 간 협정 체결 추진에 관한 합의 확인 단계; 해당 기사에 최종 서명·공급물량·투자금액 미제시."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄·영국]",
+          "countries": [
+            "타지키스탄",
+            "영국"
+          ],
+          "title": "ECMO와 핵심광물 투자환경 협의",
+          "bullets": [
+            {
+              "text": "Interfax의 6일 보도에 따르면 타지키스탄 국가투자·국유재산관리위원회와 영국 소재 Eurasia Critical Minerals Organisation(ECMO)의 핵심광물 외자 유치·공동사업 가능성 협의.",
+              "source": "Interfax",
+              "url": "https://www.interfax.ru/world/1127327"
+            },
+            {
+              "text": "런던 소재 비영리 조직 ECMO와 산업 제도·관리체계·투자환경 개선 논의; 구체 광산명·개발권 계약·투자액·금융약정 미제시."
             }
           ]
         },
@@ -59,17 +76,32 @@ window.REPORT_DATA = {
           "countries": [
             "키르기스스탄"
           ],
-          "title": "농식품단지 사전조사 재원 약정",
+          "title": "나린 산업단지 추진·투자규정 정비",
           "bullets": [
             {
-              "text": "농업부는 5일 비슈케크 산업포럼에서 UNIDO가 참여하는 3자 금융협정 체결 발표. 유라시아개발은행의 지원 약정액은 USD 370,509.",
-              "source": "egov.kg",
-              "url": "https://egov.kg/ru/ministry/agriculture/news/52071"
+              "text": "6일 Kabar 보도에서 키르기스 내각의 나린주 에너지 다소비·저탄소 제조업 산업단지 건설·운영 투자사업 추진 명령 채택 확인.",
+              "source": "Kabar",
+              "url": "https://ru.kabar.kg/news/kabmin-rassmotrel-novye-investicionnye-proekty/"
             },
             {
-              "text": "지원 대상은 예비타당성조사·개발모델·투자유치 전략 마련으로, 단지 건설비 확보나 착공과 구분 필요.",
-              "source": "kaktus.media",
-              "url": "https://kaktus.media/doc/556324_v_kyrgyzstane_sozdadyt_agroprodovolstvennyy_park_za_370_tysiach.html"
+              "text": "광업 등 국가 투자사업 선정·지원 규정 개정안 채택 및 비슈케크·카라콜·레일레크·마이마크·나린 자유경제구역 규정 변경; 산업단지 투자자·금액·조달·착공 내역 미제시."
+            }
+          ]
+        },
+        {
+          "tag": "[키르기스스탄]",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "2026~2027년 물가안정계획 승인",
+          "bullets": [
+            {
+              "text": "6일 수자원·농업·가공산업부 발표를 인용한 보도에서 내각의 상품·서비스 물가안정계획 승인 확인; 2026~2027년 총 57개 조치 및 농축산·저장·물류·가공산업 공급 확대 추진.",
+              "source": "Kaktus.media",
+              "url": "https://kaktus.media/doc/556359_v_kyrgyzstane_zaplanirovali_57_meropriiatiy_po_stabilizacii_rosta_cen.html"
+            },
+            {
+              "text": "총 필요재원 366억 솜(원문 36.6 billion som), 농업부 소관 32개 조치에 294억 솜(29.4 billion som) 제시; 계획상 필요액으로 예산 확정·집행액과 구분 필요."
             }
           ]
         }
@@ -80,45 +112,39 @@ window.REPORT_DATA = {
       "title": "③ 국제경제·전쟁",
       "items": [
         {
-          "tag": "[중국·미국]",
+          "tag": "[미국·중국]",
           "countries": [
-            "중국",
-            "미국"
+            "미국",
+            "중국"
           ],
-          "title": "미국산 화학제품 무역구제관세 연장",
+          "title": "미국의 희토류·농산물 약속 이행 촉구",
           "bullets": [
             {
-              "text": "중국 상무부는 5일 미국산 노말프로판올의 반덤핑·상계관세를 6일부터 5년 연장한다고 발표. 일몰재심 최종결정으로, 기존 세율 유지.",
-              "source": "Reuters",
-              "url": "https://www.reuters.com/world/asia-pacific/china-keep-anti-dumping-anti-subsidy-tariffs-us-n-propanol-imports-five-more-2026-11-05/"
+              "text": "6일 베선트 미 재무장관·그리어 USTR 대표와 허리펑 중국 부총리의 통화에서 미국 측의 부산 무역합의 즉각 이행 촉구; 희토류·기타 핵심광물 공급과 미국산 농산물 구매 강조.",
+              "source": "Reuters (MarketScreener 재게재)",
+              "url": "https://au.marketscreener.com/news/us-urged-beijing-to-implement-commitments-of-busan-trade-deal-treasury-says-ce785fd2dd8af226"
             },
             {
-              "text": "반덤핑관세 254.4~267.4%, 상계관세 34.2~37.7% 적용. 신규 관세 인상이나 검토안과 구분 필요."
+              "text": "미국의 기존 합의 이행 점검 요구 단계; 중국 측은 추가 농산물 구매를 상호 관세인하와 연계, 신규 관세인하안 최종 확정 미발표."
             }
           ]
         },
         {
-          "tag": "[러시아·이란]",
+          "tag": "[이란·미국·카타르]",
           "countries": [
-            "러시아",
-            "이란"
+            "이란",
+            "미국",
+            "카타르"
           ],
-          "title": "안보 고위급 접촉, 해협 재개방 이견 지속",
+          "title": "카타르 중재안·호르무즈 재개방 검토",
           "bullets": [
             {
-              "text": "푸틴 대통령은 5일 모스크바에서 모흐센 레자이 이란 안보 고위당국자와 면담. 러시아 대통령실도 면담 사실 확인.",
-              "source": "Reuters",
-              "url": "https://www.reuters.com/world/middle-east/putin-met-iranian-security-council-chief-rezaei-moscow-2026-11-05/"
+              "text": "6일 AP가 익명의 중동 정부 관계자 2명을 인용해 이란의 카타르 중재 제안 검토 보도; 미국의 봉쇄 해제·동결자산 일부 해제와 이란 핵시설 사찰 허용 등을 연계한 신뢰구축안 논의.",
+              "source": "AP",
+              "url": "https://apnews.com/article/iran-war-nuclear-program-negotiations-trump-53ed5d271b9aef6f880aebc133ea6a55"
             },
             {
-              "text": "레자이는 전후 지역안보·러시아발 가스관을 논의했다고 설명하고, 미국이 이란의 7개 조건을 이행하기 전 호르무즈 개방·협상 불가 입장 표명. 새 합의나 가스관 착공 발표는 미확인.",
-              "source": "Reuters",
-              "url": "https://www.reuters.com/world/middle-east/putin-met-iranian-security-council-chief-rezaei-moscow-2026-11-05/"
-            },
-            {
-              "text": "러시아–우크라이나: 휴전·에너지시설 보호·흑해 통항 합의의 확인된 주요 새 동향 없음. 5일 우크라이나 외무장관의 미국 지원 확대 기대 표명은 실제 지원 결정과 구분 필요.",
-              "source": "Reuters",
-              "url": "https://www.reuters.com/world/ukraine-expects-fresh-support-after-us-mid-terms-minister-says-2026-11-05/"
+              "text": "제안상 2일차 호르무즈 해협 재개방과 후속 핵협상 구상; 미국의 해협 운영안 승인·휴전 합의·실제 재개방 미확인."
             }
           ]
         }
@@ -129,32 +155,38 @@ window.REPORT_DATA = {
       "title": "④ 인근국",
       "items": [
         {
-          "tag": "[카자흐스탄·러시아]",
+          "tag": "[카자흐스탄]",
           "countries": [
-            "카자흐스탄",
-            "러시아"
+            "카자흐스탄"
           ],
-          "title": "서부 원유 수출경로 재개 요청",
+          "title": "석유제품 수출제한 6개월 연장",
           "bullets": [
             {
-              "text": "카자흐 에너지부는 드루즈바 송유관과 우스티루가항을 통한 원유 수송 재개를 러시아에 서면 요청했다고 5일 확인. 러시아 답변 대기 단계로, 수송 재개와 구분 필요.",
-              "source": "interfax.ru",
-              "url": "https://www.interfax.ru/business/1127200"
+              "text": "6일 Kazinform이 10월 30일 서명된 에너지부 명령 보도; 2026년 11월 22일~2027년 5월 22일 휘발유·경유 등 석유제품의 도로 운송 수출 금지 및 철도 운송 제한 연장.",
+              "source": "Kazinform",
+              "url": "https://www.inform.kz/ru/kazahstan-prodlil-zapret-na-vivoz-nefteproduktov-eshe-na-polgoda-c5c5394b"
+            },
+            {
+              "text": "명령 발효일 11월 16일; 승인 공급계획에 따른 철도 휘발유 수출·정부 결정 인도적 지원 등 예외 존재. 별도로 2027년 1~6월 일부 석유제품의 EAEU 역외 수출 제한 예정."
             }
           ]
         },
         {
-          "tag": "[우즈베키스탄·일본]",
+          "tag": "[투르크메니스탄·카자흐스탄·우즈베키스탄]",
           "countries": [
-            "우즈베키스탄",
-            "일본"
+            "투르크메니스탄",
+            "카자흐스탄",
+            "우즈베키스탄"
           ],
-          "title": "발전·공항사업과 핵심광물 공급 협의",
+          "title": "접경 도로 개통·신규 노선 건설 승인",
           "bullets": [
             {
-              "text": "쿠드라토프 투자산업통상장관은 5일 Sojitz 현지 대표와 신공항·발전사업 진행 및 몰리브덴·텅스텐·인듐 공급 가능성 협의. 신규 공급계약 체결은 미발표.",
-              "source": "UzDaily.uz",
-              "url": "https://www.uzdaily.uz/ru/uzbekistan-i-sojitz-obsudili-novye-investproekty-05-11-2026/"
+              "text": "6일 Trend가 투르크메니스탄 대통령의 4일 도로사업 조치 보도; 투르크멘바시~가라보가즈~카자흐스탄 국경 노선 중 44km 구간 개통 및 약 550km 아시가바트~다쇼구즈 도로 건설 개시 승인.",
+              "source": "Trend.az",
+              "url": "https://ru.trend.az/casia/turkmenistan/4243436.html"
+            },
+            {
+              "text": "서부 카자흐스탄 연결 구간의 개통과 우즈베키스탄 접경 북부로 향하는 신규 도로의 건설 승인 단계 구분; 신규 도로 사업비·준공 일정 미제시."
             }
           ]
         }
@@ -165,14 +197,40 @@ window.REPORT_DATA = {
       "title": "⑤ 오늘 확인할 것",
       "items": [
         {
-          "tag": "",
+          "tag": "[한국·키르기스스탄]",
           "countries": [
-            "타지키스탄"
+            "한국",
+            "키르기스스탄"
           ],
-          "title": "",
+          "title": "KOTRA 개설계획·인증사업 구체화",
           "bullets": [
             {
-              "text": "주타지키스탄대사관을 통해 카비르 장관 면담 결과와 우선사업 제안 여부 확인 필요. 산업협력 MOU 후속 실행계획에 반영할 사업·담당기관·회신 일정 구체화 필요."
+              "text": "KOTRA의 키르기스스탄 사무소 설치 공식 발표·개소 일정과 할랄 인증사업 수행기관·사업범위 공개 여부 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "[키르기스스탄]",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "산업단지 명령·물가대책 재원 확인",
+          "bullets": [
+            {
+              "text": "나린 산업단지 추진 명령 원문·투자자·전력공급 조건 및 물가안정계획 366억 솜 필요액의 재원별 확보·예산 반영 여부 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄·카자흐스탄]",
+          "countries": [
+            "타지키스탄",
+            "카자흐스탄"
+          ],
+          "title": "에너지협정·연료수출 예외 확인",
+          "bullets": [
+            {
+              "text": "양국 에너지 부처 간 협정 최종 서명 여부와 카자흐스탄 석유제품 수출제한의 품목별 적용·승인 공급계획 예외 공개 여부 확인 필요."
             }
           ]
         }
@@ -180,6 +238,9 @@ window.REPORT_DATA = {
     }
   ],
   "notes": [
-    "사용자 제공 「5분 통상 브리핑」(2026.11.06, 확인시각 08:34 KST) 원문을 구조화한 첫 보고서."
+    "수집 구간은 2026-11-06 08:14~2026-11-07 08:14 KST이며, 기사 게시 시각 기준 선별. 전날 수록된 한·타지키스탄 산업장관 면담 등 동일 사안 제외.",
+    "원문 URL 미확인: Reuters·US urges China to meet rare earths, agriculture commitments ahead of Trump-Xi meetings. 원문 검색 후 MarketScreener 재게재 URL·게시 시각 사용.",
+    "한국 공관 페이지 직접 열람 시 리디렉션 반복 오류 발생; 검색에 노출된 공관 소식·외교부·양국 외교 발표를 교차 검색했으나 수집 구간 내 대사 인사 신규 발표 미확인.",
+    "Asia-Plus·타지키스탄 대통령실·키르기스 내각 공식 사이트의 해당 날짜 검색에서 채택 가능한 원문·게시 시각 미확인."
   ]
 };
