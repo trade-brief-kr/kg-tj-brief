@@ -1,31 +1,31 @@
 window.REPORT_DATA = {
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T08:21:34+09:00",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T08:17:42+09:00",
   "coverage": "최근 24시간 발표 중심",
-  "headline": "타지키스·카자흐 교역 확대 로드맵 채택…한·타지키스 산업투자 협의 누락 보완",
+  "headline": "키르기스스탄 200ha 산업·물류단지 계획 공개, 타지키스탄 부스톤 철강봉 생산라인 가동 보도",
   "sections": [
     {
       "id": "korea",
       "title": "① 한국 관련 외교·인사",
       "items": [
         {
-          "tag": "[한국·타지키스탄]",
+          "tag": "[한국·키르기스스탄]",
           "countries": [
             "한국",
-            "타지키스탄"
+            "키르기스스탄"
           ],
-          "title": "산업장관–한국대사 투자협력 협의",
+          "title": "한국대사관 주최 김치 축제 개최",
           "bullets": [
             {
-              "text": "[누락 보완·11.05] 타지키스탄 산업신기술부 발표를 인용한 5일 보도에 따르면, 셰랄리 카비르 장관과 주타지키스탄 한국대사가 4일 한국 기업 투자 유치·산업기술 도입 및 산업협력 확대 방안 협의.",
-              "source": "Avesta.tj",
-              "url": "https://avesta.tj/2026/11/05/tadzhikistan-nameren-rasshirit-promyshlennoe-sotrudnichestvo-s-yuzhnoj-koreej/"
+              "text": "카바르가 11월 8일, 주키르기스스탄 한국대사관이 비슈케크시 지원으로 11월 7일 개최한 김치 축제 보도. 김광재 대사와 비슈케크 부시장 참석.",
+              "source": "Kabar",
+              "url": "https://ru.kabar.kg/news/v-bishkeke-proshel-tradicionnyj-festival-kimchi/"
             },
             {
-              "text": "공동 행동계획 수립과 우선 투자사업 선정 필요성 확인 단계로, 개별 사업·투자액·금융약정·착공 일정은 해당 보도에 미제시."
+              "text": "김치 조리 전통과 한국 문화 소개 중심의 공공외교 행사."
             },
             {
-              "text": "대사 인사: 양국 주재 한국대사 및 주한 양국 대사의 임명·부임·신임장·이임 관련 수집 구간 내 신규 발표 미확인."
+              "text": "대사 인사: 양국 주재 한국대사 및 주한 양국 대사의 임명·부임·신임장·이임 신규 발표 미확인."
             }
           ]
         }
@@ -36,80 +36,74 @@ window.REPORT_DATA = {
       "title": "② 타지키스탄·키르기스스탄",
       "items": [
         {
-          "tag": "[타지키스탄·카자흐스탄]",
-          "countries": [
-            "타지키스탄",
-            "카자흐스탄"
-          ],
-          "title": "2030년까지 교역 확대 로드맵 채택",
-          "bullets": [
-            {
-              "text": "토카예프 카자흐스탄 대통령이 7일 라흐몬 타지키스탄 대통령과의 회담 결과 발표에서 2030년까지 교역 확대를 위한 로드맵 채택 및 양국 정부의 이행 지시 공개.",
-              "source": "Kazinform",
-              "url": "https://www.inform.kz/ru/kazahstan-itadzhikistan-prinyali-dorozhnuyu-kartu-pouvelicheniyu-tovarooborota-d-8a886797"
-            },
-            {
-              "text": "별도 소그드주 발표 인용 보도에서는 6일 소그드주·카자흐스탄 기업 간 총 900백만 달러 초과 교역 협력문서 서명 및 면화 가공 합작기업·온실·농산물 물류센터 구상 협의 확인.",
-              "source": "Khovar",
-              "url": "https://khovar.tj/rus/2026/11/mezhdu-predprinimatelyami-sogdijskoj-oblasti-i-kazahstana-podpisany-novye-dokumenty-o-sotrudnichestve/"
-            },
-            {
-              "text": "정부 간 로드맵 채택과 기업 간 문서 서명의 구분 필요. 900백만 달러 초과 문서의 품목별 내역·계약 구속력·대금 집행 여부는 해당 보도에 미제시."
-            }
-          ]
-        },
-        {
-          "tag": "[타지키스탄·일본]",
-          "countries": [
-            "타지키스탄",
-            "일본"
-          ],
-          "title": "두샨베 변전소 2028년 가동 계획",
-          "bullets": [
-            {
-              "text": "타지키스탄 에너지수자원부가 7일 보도를 통해 두샨베 인근 루다키 지구의 220/110/10kV 변전소 건설계획 및 2028년 8월 가동 목표 소개.",
-              "source": "Khovar",
-              "url": "https://khovar.tj/rus/2026/11/novaya-podstantsiya-v-dushanbe-pomozhet-snizit-tehnicheskie-poteri-elektroenergii/"
-            },
-            {
-              "text": "타지키스탄 정부·일본국제협력기구(JICA) 재원 활용 및 시공사 Tajikgidroelectromontazh 제시. 전력손실 감축과 기존 송변전망 부하 완화 목적."
-            },
-            {
-              "text": "사업 소개·건설계획 발표 단계로, 총사업비·재원별 분담·금융조건·착공일은 해당 보도에 미제시."
-            }
-          ]
-        },
-        {
           "tag": "[키르기스스탄]",
           "countries": [
             "키르기스스탄"
           ],
-          "title": "디지털 솜의 은행간 결제 연계안",
+          "title": "200ha 산업·물류단지 조성 계획",
           "bullets": [
             {
-              "text": "키르기스스탄 중앙은행이 디지털 솜 플랫폼을 실시간 총액결제시스템의 전문 참가자로 포함하는 규정 개정안을 공공 의견수렴에 부쳤다는 7일 보도.",
-              "source": "Kaktus.media",
-              "url": "https://kaktus.media/doc/556422_nacbank_predlojil_podkluchit_cifrovoy_som_k_sisteme_mejbankovskih_raschetov.html"
-            },
-            {
-              "text": "지급결제 인프라 연계에 관한 초안으로, 일반 국민 대상 디지털 솜 출시 결정과 구분 필요. 추가 재정 소요가 없다는 중앙은행 설명 및 승인 시 공식 공표 15일 후 발효 조건 제시."
-            }
-          ]
-        },
-        {
-          "tag": "[키르기스스탄]",
-          "countries": [
-            "키르기스스탄"
-          ],
-          "title": "이식아타 산업시설 가동 실적 공개",
-          "bullets": [
-            {
-              "text": "자파로프 대통령의 7일 이식아타 지구 사회경제 성과 점검에서 2026년 1~9월 대형 산업기업 8곳 개설 실적 공개.",
+              "text": "자파로프 대통령의 11월 8일 모스콥스키군 주민 면담에서 악토르포크 마을 200ha 산업·물류단지 조성 계획 공개. 제조기업 입주와 투자 유치를 위한 기반시설 구축 구상.",
               "source": "Kabar",
-              "url": "https://ru.kabar.kg/news/v-ysyk-atinskom-rajone-za-9-mesyacev-otkryli-8-krupnyx-promyshlennyx-predpriyatij/"
+              "url": "https://ru.kabar.kg/news/v-moskovskom-rajone-planiruyut-sozdat-industrialno-logisticheskij-park-na-200-ga/"
             },
             {
-              "text": "연말까지 추가 4곳, 2027년 15개 산업시설 가동 계획 제시. 이미 개설된 8곳과 향후 가동 계획의 구분 필요하며, 기업별 투자액·생산능력은 해당 보도에 미제시."
+              "text": "완전 가동 시 상시 일자리 350~500개 창출 예상. 단지 총사업비·재원 확정·입찰·착공 일정 미발표."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄·중국]",
+          "countries": [
+            "타지키스탄",
+            "중국"
+          ],
+          "title": "부스톤 철강봉 생산라인 가동",
+          "bullets": [
+            {
+              "text": "호바르가 11월 8일 부스톤시 당국을 인용, 바호리 부스톤 공장 2단계 생산라인과 파로본 변전소의 공식 가동 보도. 현지 기업가와 중국 투자자의 협력 사업.",
+              "source": "Khovar",
+              "url": "https://khovar.tj/rus/2026/11/v-bustone-otkryli-novuyu-proizvodstvennuyu-liniyu-i-elektropodstantsiyu/"
+            },
+            {
+              "text": "증설 후 공장 철강봉 생산능력 연 8,000톤, 상시 고용 30명 이상. 변전소 용량은 기사 표기 기준 1,600kW."
+            },
+            {
+              "text": "가동 개시 보도 단계이며, 정확한 가동일·투자금액·설비 공급사·실제 생산량 미발표."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄]",
+          "countries": [
+            "타지키스탄"
+          ],
+          "title": "농업정책법안 관계기관 심의",
+          "bullets": [
+            {
+              "text": "타지키스탄 농업부가 호바르의 11월 8일 보도를 통해 올해 농업정책법안 작성과 관계기관 심의 진행 상황 공개.",
+              "source": "Khovar",
+              "url": "https://khovar.tj/2026/11/onuni-um-urii-to-ikiston-dar-borai-siyosati-agrar-ta-iya-gardidaast/"
+            },
+            {
+              "text": "국가 지원, 토지·수자원 이용, 농업 신기술과 기후변화 적응을 주요 내용으로 제시. 법안 심의 단계로, 법률 채택·시행일 및 지원 규모 미발표."
+            }
+          ]
+        },
+        {
+          "tag": "[키르기스스탄]",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "국영은행 284개사 거래 중단",
+          "bullets": [
+            {
+              "text": "[누락 보완·11.06] 카바르가 11월 6일 제재정책 실무그룹의 11월 5일 회의 결과를 인용, A은행과 엘딕은행의 제재 위험이 높은 기업 총 284개사에 대한 거래관계 종료 보도.",
+              "source": "Kabar",
+              "url": "https://ru.kabar.kg/news/gosbanki-kr-prekratili-sotrudnichestvo-s-284-kompaniyami-iz-za-sankcionnyx-riskov/"
+            },
+            {
+              "text": "A은행 115개사·엘딕은행 169개사 거래 종료, 추가 37개사·4개사는 각각 모니터링·심사 단계. 기업별 명단과 개별 거래 제한 범위 미공개."
             }
           ]
         }
@@ -120,43 +114,40 @@ window.REPORT_DATA = {
       "title": "③ 국제경제·전쟁",
       "items": [
         {
-          "tag": "[미국·이란]",
+          "tag": "[러시아·우크라이나]",
           "countries": [
-            "미국",
-            "이란"
+            "러시아",
+            "우크라이나"
           ],
-          "title": "이란 육상·카스피해 제재집행 강화",
+          "title": "흑해 화물선·변전소 피격 주장",
           "bullets": [
             {
-              "text": "미 중부사령부가 7일 이란 육상국경·카스피해를 통한 첨단무기·제재대상 물자 이동 제한을 지원하는 ‘Task Force Iron Gate’ 신설 발표.",
-              "source": "Reuters",
-              "url": "https://www.reuters.com/world/middle-east/expanding-naval-blockade-us-military-looks-restrict-iranian-land-commerce-2026-11-07/",
-              "altUrl": "https://ca.marketscreener.com/news/expanding-on-naval-blockade-us-military-looks-to-restrict-iranian-land-commerce-ce785fd2d18df127"
+              "text": "러시아 국방부가 11월 8일 우크라이나 관련 화물선 3척과 드니프로페트로우스크·지토미르 지역 변전소 2곳 타격 주장. 로이터의 러시아 측 주장 독립 검증 불가 명시.",
+              "source": "Reuters (StreetInsider 재게재)",
+              "url": "https://www.streetinsider.com/Reuters/Russia%2Bsays%2Bhit%2Bpower%2Bsubstations%2Bin%2BUkraine%2Band%2Bthree%2Bships%2Bin%2BBlack%2BSea/27309482.html"
             },
             {
-              "text": "플로리다주 탬파에 본부를 두고 미 정부기관과 공조하며, 이중용도 기술과 불법 수익 흐름도 차단 대상으로 제시. 로이터는 관련 조사에서 러시아발 카스피해 선박·중앙아시아발 트럭을 통한 이란 군수물자 반입 경로 보도."
-            },
-            {
-              "text": "태스크포스 신설과 특정 국경의 폐쇄·일반 상업화물 전면금지의 구분 필요. 해당 보도에 신규 통관금지 품목표·일반 화물 적용 절차 미제시."
+              "text": "우크라이나 전력기업 DTEK는 야간 에너지시설 공격으로 드니프로페트로우스크 지역 60만 명 이상 정전 발표. 선박 화물의 군수·이중용도 여부와 항만 운영 차질 규모 미확인."
             }
           ]
         },
         {
-          "tag": "[러시아·우크라이나]",
+          "tag": "[미국·이란]",
           "countries": [
-            "러시아",
-            "우크라이나",
-            "미국"
+            "미국",
+            "이란",
+            "오만",
+            "아랍에미리트"
           ],
-          "title": "키이우 전력망·교량 피격",
+          "title": "호르무즈·오만만 선박 사건 보도",
           "bullets": [
             {
-              "text": "로이터의 7일 갱신 보도에 따르면, 러시아의 미사일·드론 공격으로 키이우 주변 에너지시설과 드니프로강 북부교량 피해 발생. 우크라이나 에너지부는 원전 2곳의 전력을 키이우·중부지역으로 보내는 송전설비의 심각한 손상 발표.",
-              "source": "Reuters(AOL 재게재)",
-              "url": "https://www.aol.com/articles/russian-forces-launch-missile-attack-012321000.html"
+              "text": "11월 8일 로이터 보도에 따르면 미군은 7일 오만만에서 봉쇄 돌파를 시도한 상선의 운항 불능 조치 발표. 이란 혁명수비대는 호르무즈 해협 유조선 2척의 기뢰 충돌·화재 주장.",
+              "source": "Reuters (MarketScreener 재게재)",
+              "url": "https://www.marketscreener.com/news/iran-suggests-blasts-are-not-us-attacks-as-both-sides-report-ships-hit-ce785fd2d08ff52c"
             },
             {
-              "text": "키이우 전력·난방·수도 공급 차질 보고 및 10~11일 아부다비 미·러·우크라이나 협상 예정 보도. 협상 일정과 휴전·시설복구 확정의 구분 필요."
+              "text": "로이터의 관련 타격 주장 독립 검증 불가 명시. 영국 해사무역기구 UKMTO는 코르파칸 동쪽 약 18해리의 벌크선·군 관련 사건 보고, 피해 규모 및 미군 발표 사건과의 동일성 미확인."
             }
           ]
         }
@@ -171,15 +162,18 @@ window.REPORT_DATA = {
           "countries": [
             "우즈베키스탄"
           ],
-          "title": "할카 500kV 변전소 통전 개시",
+          "title": "우즈메트콤비나트 집진설비 개선",
           "bullets": [
             {
-              "text": "우즈베키스탄이 7일 500kV·1602MVA 규모 할카 변전소에 전압 인가 개시. 타슈켄트·주변지역 공급 안정과 기존 전력망 부하 완화 목적.",
+              "text": "우즈데일리가 11월 8일 우즈메트콤비나트 발표를 인용, 전기로 제강시설의 약 US$5 million 가스 정화설비 현대화 진행 보도. 주요 공사 완료 목표 2026년 12월 15일.",
               "source": "UzDaily.uz",
-              "url": "https://www.uzdaily.uz/ru/v-uzbekistane-vveli-v-rabotu-podstantsiiu-khalka-moshchnostiu-1602-mva/"
+              "url": "https://www.uzdaily.uz/en/uzmetkombinat-to-upgrade-gas-cleaning-system-for-us5m/"
             },
             {
-              "text": "세계은행 참여 사업의 총비용 171.4백만 달러, 220kV 송전선 213km·500kV 송전선 72km 건설 포함. 통전은 개시됐으나 전력계통 완전 통합을 위한 마무리 작업은 계속 진행 중."
+              "text": "10월 15~23일 환경당국 점검의 위반사항 시정 작업. 백필터 8,400개 교체와 배기팬 3기 설치 완료, 가스 냉각·집진설비 공사 계속."
+            },
+            {
+              "text": "회사 제시 집진효율 현재 95.8%·완료 후 목표 98%. 배출기준 충족 여부는 계측과 관계기관 검사로 확인 예정."
             }
           ]
         },
@@ -188,15 +182,15 @@ window.REPORT_DATA = {
           "countries": [
             "카자흐스탄"
           ],
-          "title": "세메이 경제특구 설립 결정",
+          "title": "북부 주요 도로 차량 통행 제한",
           "bullets": [
             {
-              "text": "카자흐스탄 총리가 아바이주 자나세메이 지역에 600ha 규모 ‘세메이’ 특별경제구역을 설립하는 정부 결의에 서명했다는 7일 정부 인용 보도.",
+              "text": "카자브토졸이 기상 악화로 11월 8일 17:20부터 아크몰라·파블로다르주 일부 간선도로에서 여름용 타이어 장착 차량 통행 제한. 아스타나~시추친스크 및 아스타나~시데르티 방향 구간 포함.",
               "source": "Kazinform",
-              "url": "https://www.inform.kz/ru/premer-ministr-rkpodpisal-postanovlenie-osozdanii-sez-semey-a6d35976"
+              "url": "https://www.inform.kz/ru/trassi-vdvuh-oblastyah-kazahstana-zakrili-dlyamashin-naletnih-shinah-8e2bba64"
             },
             {
-              "text": "특구 내 사업의 예상 투자규모 1.4조 텡게 및 상시 일자리 약 1만4천 개 제시. 특구 설립 결정과 기업별 투자 확정·자금 집행·공장 가동의 구분 필요."
+              "text": "코크셰타우~아트바사르 구간도 18:20 통행 제한 추가 안내. 도로 재개 예상 시각은 11월 9일 09:00 현지시각으로, 실제 재개 여부 미확인."
             }
           ]
         }
@@ -207,41 +201,38 @@ window.REPORT_DATA = {
       "title": "⑤ 오늘 확인할 것",
       "items": [
         {
-          "tag": "[한국·타지키스탄]",
+          "tag": "[키르기스스탄]",
           "countries": [
-            "한국",
-            "타지키스탄"
+            "키르기스스탄"
           ],
-          "title": "산업협력 우선사업·재원",
+          "title": "산업·물류단지 사업조건",
           "bullets": [
             {
-              "text": "산업장관–한국대사 면담 후 공동 행동계획, 한국 기업 참여 우선사업 목록 및 투자·금융 조건의 공개 여부 확인 필요."
+              "text": "악토르포크 200ha 단지의 사업시행자·토지 배정·총사업비·재원·입주 조건 및 공개 조달 일정 확인 필요."
             }
           ]
         },
         {
-          "tag": "[타지키스탄·일본]",
+          "tag": "[키르기스스탄]",
           "countries": [
-            "타지키스탄",
-            "일본"
+            "키르기스스탄"
           ],
-          "title": "두샨베 변전소 사업조건",
+          "title": "은행 거래 제한 적용 범위",
           "bullets": [
             {
-              "text": "정부·JICA 재원별 분담액과 무상·차관 구분, 착공 여부 및 송변전기자재 조달공고 공개 여부 확인 필요."
+              "text": "A은행·엘딕은행이 종료한 거래의 적용 대상·결제 통화·기업별 공개 명단 및 추가 41개사 심사 결과 공개 여부 확인 필요."
             }
           ]
         },
         {
-          "tag": "[타지키스탄·카자흐스탄]",
+          "tag": "[우즈베키스탄]",
           "countries": [
-            "타지키스탄",
-            "카자흐스탄"
+            "우즈베키스탄"
           ],
-          "title": "교역 로드맵·협력문서 세부내역",
+          "title": "제강시설 개선 완료·검사",
           "bullets": [
             {
-              "text": "2030년 교역 확대 로드맵 원문 및 소그드주 기업 협력문서의 대상품목·서명기업·계약 구속력·이행 일정 공개 여부 확인 필요."
+              "text": "우즈메트콤비나트의 12월 15일 공사 목표 이행, 설비 공급·시공 계약 공개 여부 및 환경당국의 배출기준 검사 결과 확인 필요."
             }
           ]
         }
@@ -249,9 +240,10 @@ window.REPORT_DATA = {
     }
   ],
   "notes": [
-    "수집 기준: 2026-11-07 08:15~2026-11-08 08:15 KST. 누락 보완 1건은 11월 5일 게시 보도로, 본문에 명시된 실제 면담일은 11월 4일.",
-    "주키르기즈공화국·주타지키스탄 한국대사관 및 주한 타지키스탄 대사관 홈페이지 일부에 접근 오류 발생. 검색 색인·현지 보도와 대조했으나 대사 인사 신규 발표 미확인.",
-    "이란 태스크포스 기사: Reuters 원문 주소는 재게재 사이트의 원문 연결 링크로 확인. 직접 접속 제한으로 MarketScreener의 Reuters 갱신 본문 대조, publishedAt은 재게재 최초 게시 시각인 11월 7일 08:30 EST 기준.",
-    "원문 URL 미확인: Reuters·Russia pounds power facilities around Kyiv, damages major bridge. AOL 재게재 최초 게시 11월 7일 01:23 UTC, 본문 갱신 14:46 UTC 확인."
+    "수집 구간: 2026-11-08 08:13~2026-11-09 08:13 KST. 누락 보완 1건은 최대 3일 범위 내 11월 6일 보도로, 제공된 전날 보고서 목록과 중복 없음.",
+    "한국 공관 홈페이지 두 곳은 원문 열기 과정에서 리디렉션 반복 오류 발생. 검색에 노출된 공관 자료가 7월 이전 중심으로, 최근 고위급 산업·통상 협력 및 대사 인사 신규 발표 확인에 한계.",
+    "로이터 원문 URL 미확인: Russia says hit power substations in Ukraine and three ships in Black Sea. StreetInsider 재게재 원문·게시 시각 확인.",
+    "로이터 원문 URL 미확인: Iran suggests blasts are not US attacks as both sides report ships hit. MarketScreener 재게재 원문·게시 시각 확인.",
+    "시간대가 따로 표시되지 않은 현지 매체 게시 시각은 비슈케크 UTC+06:00, 두샨베·타슈켄트·아스타나 UTC+05:00 기준 적용. 로이터 재게재 2건은 페이지에 명시된 EST(UTC-05:00) 적용."
   ]
 };
