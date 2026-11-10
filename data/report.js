@@ -1,55 +1,68 @@
 window.REPORT_DATA = {
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T08:16:21+09:00",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T08:18:43+09:00",
   "coverage": "최근 24시간 발표 중심",
-  "headline": "국가철도공단, 두샨베 스마트 모빌리티 ODA 연수 완료·협의의사록 체결",
+  "headline": "키르기스 에너지음료 수입금지안 공개·타지키스 AI-92 휘발유 2만톤 도입 계획",
   "sections": [
     {
       "id": "korea",
       "title": "① 한국 관련 외교·인사",
-      "items": [
-        {
-          "tag": "[한국·타지키스탄]",
-          "countries": [
-            "한국",
-            "타지키스탄"
-          ],
-          "title": "두샨베 스마트 교통 ODA 협력",
-          "bullets": [
-            {
-              "text": "국가철도공단이 9일 타지키스탄 교통부·두샨베시 고위급 공무원 대상 11월 1~7일 교통정책 연수 완료 발표. 교통 인프라 재원조달·AI 교차로·교통 데이터 운영 경험 공유.",
-              "source": "더팩트",
-              "url": "https://news.tf.co.kr/read/economy/2386310.htm"
-            },
-            {
-              "text": "국토교통부 시행·해외건설협회 발주 ODA로, 2026년 6월 24일~2028년 6월 23일 도시교통 마스터플랜·세부계획 수립 과업. 연수 중 국토부·두샨베시 협의의사록(RoD) 체결; 총사업비·시설공사 계약은 보도상 미발표."
-            },
-            {
-              "text": "대사 인사: 양국 주재 한국대사 및 주한 양국 대사의 임명·부임·신임장·이임 신규 발표 미확인."
-            }
-          ]
-        }
-      ]
+      "items": []
     },
     {
       "id": "kg_tj",
       "title": "② 타지키스탄·키르기스스탄",
       "items": [
         {
-          "tag": "[타지키스탄·EU]",
+          "tag": "[키르기스스탄]",
           "countries": [
-            "타지키스탄",
-            "유럽연합"
+            "키르기스스탄"
           ],
-          "title": "EU와 에너지·광물 투자 협의",
+          "title": "에너지음료 6개월 수입금지안",
           "bullets": [
             {
-              "text": "라흐몬 대통령이 9일 요제프 시켈라 EU 국제파트너십 담당 집행위원과 면담. 녹색에너지·산업·디지털 기술 및 교통회랑·유럽시장 접근 확대 협의.",
-              "source": "Avesta.tj",
-              "url": "https://avesta.tj/2026/11/09/tadzhikistan-i-es-obsudili-sotrudnichestvo-v-energetike-transporte-i-promyshlennosti/"
+              "text": "경제상업부의 에너지음료 수입을 6개월간 금지하는 내각 결의안 초안에 관한 11월 10일 보도. EAEU 품목분류 2202 중 성분 기준 충족 음료를 대상으로 하는 제안.",
+              "source": "Kaktus.media",
+              "url": "https://kaktus.media/doc/556573_radi_zdorovia_detey._v_kyrgyzstane_predlagaut_na_polgoda_zapretit_vvoz_energetikov.html"
             },
             {
-              "text": "광물 탐사·채굴·가공, 실험실 구축·인력양성 및 유럽 투자 유치 논의. 개별 사업 계약·금융약정·지원액 발표 미확인."
+              "text": "통과화물과 시행 전 선적·결제 물량의 예외 규정 포함. 사전 선적·결제 물량은 시행 후 1개월 내 반입 조건이며, 최종 채택·시행일 미확인."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄·카자흐스탄]",
+          "countries": [
+            "타지키스탄",
+            "카자흐스탄"
+          ],
+          "title": "AI-92 휘발유 2만톤 공급 계획",
+          "bullets": [
+            {
+              "text": "카자흐스탄 에너지장관이 11월 10일 타지키스탄에 대한 AI-92 휘발유 2만톤 공급 가능 물량을 11월 공급계획에 반영했다고 발표.",
+              "source": "Bizmedia.kz",
+              "url": "https://bizmedia.kz/2026-11-10-kazahstan-planiruet-postavit-20-tysyach-tonn-benzina-ai-92-v-tadzhikistan-v-noyabre/"
+            },
+            {
+              "text": "라흐몬 대통령의 카자흐스탄 방문 때 양국 에너지부 간 석유제품 공급 협정 서명. 물류와 판매가격은 양국 상업 주체의 후속 협의 사항으로, 실제 선적·인도 미확인."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄·카자흐스탄]",
+          "countries": [
+            "타지키스탄",
+            "카자흐스탄"
+          ],
+          "title": "Solidcore 지질탐사 협력 MOU",
+          "bullets": [
+            {
+              "text": "Khovar가 11월 10일 타지키스탄 지질총국과 Solidcore Resources plc의 지질·탐사 협력 MOU 내용을 공개. 서명일은 11월 7일.",
+              "source": "Khovar",
+              "url": "https://khovar.tj/rus/2026/11/podpisan-memorandum-o-vzaimoponimanii-po-sotrudnichestvu-v-tselyah-ukrepleniya-vzaimodejstviya-tadzhikistana-i-kazahstana-v-oblasti-geologii/"
+            },
+            {
+              "text": "귀금속·다금속 광상의 공동 조사·탐사·평가, 지질자료 교환과 전문인력 교육 등 협력 범위 제시. 투자금액·개별 광구·채굴권·탐사 착수 일정 미발표."
             }
           ]
         },
@@ -58,35 +71,15 @@ window.REPORT_DATA = {
           "countries": [
             "타지키스탄"
           ],
-          "title": "자이훈 250MW 태양광 공사",
+          "title": "IMF 재정투명성 평가 협의",
           "bullets": [
             {
-              "text": "Khovar가 9일 하틀론주 당국을 인용해 자이훈 지역 250MW 태양광 발전소 건설 진행 보도. 전체 부지 748ha·2단계 사업.",
-              "source": "Khovar",
-              "url": "https://khovar.tj/rus/2026/11/v-dzhajhunskom-rajone-prodolzhaetsya-stroitelstvo-solnechnoj-elektrostantsii-moshhnostyu-250-megavatt/"
+              "text": "하원 경제·재정위원회와 IMF 재정국 대표단의 국가재정 투명성·예산계획·재정위험 관리 협의에 관한 11월 10일 보도.",
+              "source": "Avesta.tj",
+              "url": "https://avesta.tj/2026/11/10/mvf-i-tadzhikistan-obsudili-prozrachnost-gosudarstvennyh-finansov/"
             },
             {
-              "text": "1단계는 50MW 태양광과 220kV 변전소, 2단계는 추가 200MW 계획. 1단계 변전소 구역 콘크리트 공사 95% 초과 완료·변압기와 패널 설치 진행."
-            },
-            {
-              "text": "전체 250MW 준공·상업운전 일정과 사업비·금융약정은 보도상 미발표."
-            }
-          ]
-        },
-        {
-          "tag": "[키르기스스탄]",
-          "countries": [
-            "키르기스스탄"
-          ],
-          "title": "농업단지 예비타당성조사 약정",
-          "bullets": [
-            {
-              "text": "Kabar가 9일 농업 담당 부처·유라시아개발은행(EDB)·유엔산업개발기구(UNIDO)의 통합 농식품단지 예비타당성조사 금융지원 3자 협정 체결 보도.",
-              "source": "Kabar",
-              "url": "https://ru.kabar.kg/news/v-kyrgyzstane-planiruetsya-sozdanie-krupnogo-agroparka/"
-            },
-            {
-              "text": "EDB 지원액 $371,000의 용도는 예비타당성조사·개발모델·투자유치 전략 마련. 단지 본사업 건설비 확정·착공·지원금 집행 여부 미확인."
+              "text": "IMF 대표단의 10월 28일~11월 11일 재정투명성 평가(FTE) 임무 일환. 평가·권고 도출 단계로, 신규 차관 승인·금융약정 발표는 해당 보도에서 미확인."
             }
           ]
         }
@@ -97,40 +90,21 @@ window.REPORT_DATA = {
       "title": "③ 국제경제·전쟁",
       "items": [
         {
-          "tag": "[중국·미국]",
+          "tag": "[러시아·우크라이나·미국]",
           "countries": [
-            "중국",
-            "미국"
-          ],
-          "title": "대미 관세·광물 통제 유예 연장",
-          "bullets": [
-            {
-              "text": "Reuters가 9일 중국의 대미 통상조치 유예 2개월 연장 발표 보도. 미국산 수입품 추가관세 24% 부과 중단을 11월 10일 13:01(중국시간)부터 연장하되 10% 관세 유지.",
-              "source": "Reuters·MarketScreener 재게재",
-              "url": "https://uk.marketscreener.com/news/china-extends-suspension-of-24-tariff-on-us-imports-for-two-months-ce785fd3d98bf325"
-            },
-            {
-              "text": "일부 핵심광물·관련 기술 수출통제 유예와 미국 관련 선박 특별항만료 징수 중단은 2027년 1월 10일까지 연장. 영구 철폐와 구분 필요."
-            }
-          ]
-        },
-        {
-          "tag": "[러시아·우크라이나]",
-          "countries": [
-            "미국",
             "러시아",
             "우크라이나",
-            "아랍에미리트"
+            "미국"
           ],
-          "title": "아부다비 협상·에너지시설 피격",
+          "title": "아부다비 1일차 종전협상 종료",
           "bullets": [
             {
-              "text": "AP가 9일 미국·러시아·우크라이나의 11월 10~11일 아부다비 협상 계획과 미국의 유럽 참여 확대 추진 보도. 휴전·종전 합의 체결 발표 미확인.",
+              "text": "러시아·우크라이나 대표단이 11월 10일 아부다비에서 미국 중재로 약 4시간 협상 진행. 2월 이후 첫 3자 회담.",
               "source": "AP",
-              "url": "https://apnews.com/article/russia-ukraine-war-talks-trump-514ff90fc04fae340898967e6655151c"
+              "url": "https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-uae-3d878a3e56d5df5bd198a6d20c824d18"
             },
             {
-              "text": "러시아 주지사는 우크라이나 드론 공격에 따른 KINEF 정유시설 화재 발표, 러시아 국방부는 우크라이나 변전소 4곳 공격 주장. 정유시설 생산 차질 규모 미확인."
+              "text": "젤렌스키의 설명에 따르면 포로·억류 민간인·아동 귀환과 안전보장 논의. 11월 11일 후속 회담 예정이며, 휴전·종전 합의 발표 미확인."
             }
           ]
         },
@@ -140,15 +114,15 @@ window.REPORT_DATA = {
             "미국",
             "이란"
           ],
-          "title": "추가 공격 자제 발언 뒤 유가 하락",
+          "title": "호르무즈 선박보호 분담 요청",
           "bullets": [
             {
-              "text": "Reuters가 9일 트럼프 대통령의 대이란 추가 공격 가능성 축소 발언 이후 유가 하락 보도. 14:27 GMT 기준 브렌트유 선물 배럴당 $93.27·5.2% 하락, WTI $86.71·4.5% 하락.",
-              "source": "Reuters·MarketScreener 재게재",
-              "url": "https://uk.marketscreener.com/news/oil-steadies-after-trump-signals-restraint-on-iran-hormuz-risks-persist-ce785fd3d988f42d"
+              "text": "루비오 미 국무장관이 11월 10일 파리 G7 외교장관 회의 뒤 이란의 공격으로부터 호르무즈해협 선박을 보호할 다른 국가들의 참여 요청 사실 공개.",
+              "source": "AP",
+              "url": "https://apnews.com/article/us-g7-ukraine-russia-rubio-49f273e626ca4bab0e5a2d32e4943014"
             },
             {
-              "text": "미국·이란 양측의 호르무즈 해협 인근 선박 피격 보고도 병존. 협상 진전 조건부 발언으로, 항행 정상화·평화합의 확정과 구분 필요."
+              "text": "루비오는 G7 측의 답변을 받지 못했다고 설명. 프랑스 등 동맹국은 전투 중단 뒤 소해·선박보호 지원 입장으로, 추가 병력 파견 합의 미확인."
             }
           ]
         }
@@ -159,36 +133,37 @@ window.REPORT_DATA = {
       "title": "④ 인근국",
       "items": [
         {
-          "tag": "[우즈베키스탄]",
-          "countries": [
-            "우즈베키스탄"
-          ],
-          "title": "전기·전자 164개 투자사업 계획",
-          "bullets": [
-            {
-              "text": "미르지요예프 대통령이 9일 업계·투자자 면담에서 향후 3년간 전기산업·연관 분야 164개 사업, 총 $11.6 billion 규모 추진 계획 제시.",
-              "source": "Kursiv Uzbekistan",
-              "url": "https://uz.kursiv.media/2026-11-09/elektrotehnika-v-uzbekistane/"
-            },
-            {
-              "text": "전자부품·마이크로전자 21개 사업 $3.5 billion, 산업용 로봇·공작기계 45개 사업 $3 billion 등 6개 분야 배분. 계획 규모로, 개별 사업 금융약정·착공 여부 미발표."
-            }
-          ]
-        },
-        {
           "tag": "[카자흐스탄]",
           "countries": [
             "카자흐스탄"
           ],
-          "title": "공공 인프라 22개 사업 완료",
+          "title": "1~10월 GDP 성장률 4.5%",
           "bullets": [
             {
-              "text": "Kazinform이 9일 에너지·공공서비스 현대화 국가사업의 9개 지역 첫 22개 시설 공사 완료 보도. 난방·전력·하수도망 재건과 일부 설비 가동 포함.",
+              "text": "국가통계국 잠정치를 인용한 11월 10일 보도에서 1~10월 실질 GDP 성장률 4.5% 제시. 1~9월 4.2% 대비 0.3%포인트 상승.",
               "source": "Kazinform",
-              "url": "https://www.inform.kz/ru/obemi-modernizatsii-kommunalnih-setey-uvelichili-v-22-raza-v-kazahstane-68bede7c"
+              "url": "https://www.inform.kz/ru/rost-ekonomiki-kazahstana-uskorilsya-do45-zadesyat-mesyatsev-cc000691"
             },
             {
-              "text": "2026년 인프라 재원 규모 1.2조 텡게. 사업 플랫폼 등록 407건 중 177건 계약 체결·230건 계약 수속 단계로, 완료 시설 수와 구분 필요."
+              "text": "비원자재 부문 5.6%, 산업생산 3.5%, 제조업 9.3% 증가. 제조업 내 기계제조 22.2%·화학 21.9% 증가로, 연간 확정치와 구분 필요."
+            }
+          ]
+        },
+        {
+          "tag": "[우즈베키스탄·러시아]",
+          "countries": [
+            "우즈베키스탄",
+            "러시아"
+          ],
+          "title": "Uzatom·NDB 환경사회기준 협의",
+          "bullets": [
+            {
+              "text": "Uzatom과 신개발은행(NDB)의 저탄소 에너지 부문 개발사업 환경·사회관리체계 마련 세미나에 관한 11월 10일 보도. 행사일은 11월 9일이며 Rosatom과 독립 전문가 참여.",
+              "source": "UzDaily.uz",
+              "url": "https://www.uzdaily.uz/en/uzatom-and-ndb-discuss-environmental-standards-for-energy-project/"
+            },
+            {
+              "text": "사업 주요 조건, 환경·사회 영향과 관리체계 구조 검토 단계. Rosatom의 원전 건설·운영 ESG 경험 공유로, NDB 대출 승인·약정금액·집행 일정 미발표."
             }
           ]
         }
@@ -199,15 +174,27 @@ window.REPORT_DATA = {
       "title": "⑤ 오늘 확인할 것",
       "items": [
         {
-          "tag": "[한국·타지키스탄]",
+          "tag": "[키르기스스탄]",
           "countries": [
-            "한국",
-            "타지키스탄"
+            "키르기스스탄"
           ],
-          "title": "두샨베 ODA 후속 과업",
+          "title": "수입금지안 최종 채택 여부",
           "bullets": [
             {
-              "text": "두샨베 스마트 모빌리티 ODA의 총사업비·마스터플랜 제출 일정 및 협의의사록에 따른 후속 과업 공개 여부 확인 필요."
+              "text": "에너지음료 수입금지 결의의 최종 채택·공포일, 성분별 적용 범위와 사전 선적·결제 물량 증빙 요건 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄·카자흐스탄]",
+          "countries": [
+            "타지키스탄",
+            "카자흐스탄"
+          ],
+          "title": "휘발유 공급 상업조건 확정 여부",
+          "bullets": [
+            {
+              "text": "AI-92 휘발유 2만톤의 판매가격·운송수단·선적일 확정 및 실제 인도 여부 확인 필요."
             }
           ]
         },
@@ -216,22 +203,10 @@ window.REPORT_DATA = {
           "countries": [
             "타지키스탄"
           ],
-          "title": "태양광 단계별 가동 일정",
+          "title": "지질탐사 MOU 실행계획",
           "bullets": [
             {
-              "text": "자이훈 태양광 1단계 50MW의 계통연계·상업운전 일정과 2단계 200MW의 재원·조달공고 공개 여부 확인 필요."
-            }
-          ]
-        },
-        {
-          "tag": "[키르기스스탄]",
-          "countries": [
-            "키르기스스탄"
-          ],
-          "title": "농업단지 조사·집행 조건",
-          "bullets": [
-            {
-              "text": "EDB·UNIDO 농식품단지 예비타당성조사의 수행기관·산출물 제출일·$371,000 지원금 집행 조건 공개 여부 확인 필요."
+              "text": "지질총국·Solidcore의 대상 광구, 투자재원, 탐사 일정과 인허가 계획 공개 여부 확인 필요."
             }
           ]
         }
@@ -239,9 +214,10 @@ window.REPORT_DATA = {
     }
   ],
   "notes": [
-    "수집 구간은 2026-11-09 08:10~2026-11-10 08:10 KST. 현지 시각 표시는 타지키스탄·우즈베키스탄·카자흐스탄 +05:00, 키르기스스탄 +06:00 적용; MarketScreener의 GMT와 AP 검색 결과의 UTC 시각 사용.",
-    "원문 URL 미확인: Reuters·China extends US trade truce by two months. MarketScreener 재게재 본문·최초 게시 시각 확인.",
-    "원문 URL 미확인: Reuters·Oil slides as Trump signals restraint on Iran despite fresh shipping attacks. MarketScreener 재게재 본문·최초 게시 시각 확인; 유가는 본문에 명시된 14:27 GMT 장중 수치.",
-    "공관 홈페이지 일부 접근 실패. 공관·외교부 및 현지 매체 검색에서 수집 구간 내 대사 인사 신규 발표 미확인."
+    "수집 기준: 2026-11-10 08:14~2026-11-11 08:14 KST. 사건 발생일과 기사 게시일을 구분했으며 누락 보완 항목 없음.",
+    "한국 관련 협력과 양국 주재 한국대사·주한 양국 대사의 임명·부임·신임장·이임 신규 발표 미확인. 수집 구간 내 게시 시각까지 확인된 관련 기사를 확보하지 못해 ① items를 비움.",
+    "주타지키스탄·주키르기즈 한국대사관 페이지는 리다이렉트 오류, Asia-Plus는 403 오류로 직접 열람 제한.",
+    "현지 매체의 날짜·시각 표기는 해당 국가 현지 시각으로 변환. AP publishedAt은 검색 결과의 UTC 게시 시각이며, 본문은 후속 갱신 내용 포함.",
+    "Reuters 원문 검색에서 수집 구간에 맞는 원문 URL을 확보하지 못해 국제 항목은 직접 열람한 AP 원문 사용."
   ]
 };
