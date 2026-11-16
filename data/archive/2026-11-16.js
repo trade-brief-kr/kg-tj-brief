@@ -1,0 +1,226 @@
+window.REPORT_ARCHIVE = window.REPORT_ARCHIVE || {};
+window.REPORT_ARCHIVE["2026-11-16"] = {
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T08:57:18+09:00",
+  "coverage": "최근 24시간 발표 중심",
+  "headline": "키르기스스탄, 아제르바이잔 도로운송 협정 승인…우즈베키스탄과 공동 통관은 협의 단계",
+  "sections": [
+    {
+      "id": "korea",
+      "title": "① 한국 관련 외교·인사",
+      "items": []
+    },
+    {
+      "id": "kg_tj",
+      "title": "② 타지키스탄·키르기스스탄",
+      "items": [
+        {
+          "tag": "[키르기스스탄]",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "EAEU 수입품 전자목록 등록 안내",
+          "bullets": [
+            {
+              "text": "[누락 보완·11.14] Kaktus.media의 14일 보도에 따르면 국세청은 EAEU 회원국에서 상품을 수입하는 사업자에게 2027년 1월 1일 전까지 수입품 정보를 전자 상품목록에 등록하도록 안내.",
+              "source": "Kaktus.media",
+              "url": "https://kaktus.media/doc/556877_gns_predypredila_importerov_o_novyh_trebovaniiah_s_1_ianvaria_2027_goda.html"
+            },
+            {
+              "text": "상품관리 시스템 ‘Сводный пост’의 2027년 1월 1일 시범 적용 예정이며, STI-150·STI-151 운송 부속서류에 사전 등록 상품만 기재하도록 하는 내용. 국세청 원문 공고·세부 예외 미확인."
+            }
+          ]
+        },
+        {
+          "tag": "[키르기스스탄·아제르바이잔]",
+          "countries": [
+            "키르기스스탄",
+            "아제르바이잔"
+          ],
+          "title": "아제르바이잔 도로운송 협정 승인",
+          "bullets": [
+            {
+              "text": "Kaktus.media가 15일 키르기스스탄 내각의 아제르바이잔 국제도로운송 협정 승인을 보도. 7월 31일 체결 협정에 대한 내각 결정 제752호의 11월 11일 서명 확인.",
+              "source": "Kaktus.media",
+              "url": "https://kaktus.media/doc/556883_kyrgyzstan_ytverdil_soglashenie_s_azerbaydjanom_ob_avtomobilnom_soobshenii.html"
+            },
+            {
+              "text": "내각 결정은 11월 13일 관보 게재 후 10일 경과 시 발효 규정. 외교부에 국내 절차 완료 통보 지시이며, 양국 협정 자체의 발효·신규 운송 개시 여부 미확인."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄]",
+          "countries": [
+            "타지키스탄"
+          ],
+          "title": "12월 첫 국제 석탄산업 포럼 예고",
+          "bullets": [
+            {
+              "text": "Khovar가 15일 산업신기술부를 인용해 12월 두샨베에서 타지키스탄 최초 국제 석탄산업 포럼 개최 예정 보도. 투자 유치·현대 기술 도입·석탄자원 검토 목적.",
+              "source": "Khovar",
+              "url": "https://khovar.tj/2026/11/dar-to-ikiston-nahustin-marotiba-forumi-bajnalmilalii-sanoati-angisht-doir-megardad/"
+            },
+            {
+              "text": "2026년 1~9월 21개 기업의 석탄 채굴량 230만 톤, 전년 동기 대비 34만4천 톤 증가 발표. 포럼 세부 일자·투자사업 목록·금융약정 미발표."
+            }
+          ]
+        },
+        {
+          "tag": "[키르기스스탄]",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "2027년 비닐봉투 전국 금지 재확인",
+          "bullets": [
+            {
+              "text": "Kaktus.media가 15일 자파로프 대통령의 주민 면담 발언을 보도. 2027년 1월 1일부터 폴리에틸렌 봉투 생산·판매·무상 제공의 전국 금지 예정 재확인.",
+              "source": "Kaktus.media",
+              "url": "https://kaktus.media/doc/556898_japarov:_cherez_dva_mesiaca_polietilenovye_pakety_bydyt_zapresheny_po_vsey_strane.html"
+            },
+            {
+              "text": "이식쿨 지역의 기존 시범 금지를 전국으로 확대한다는 설명. 이번 보도는 시행 예정 재안내이며, 대상 봉투 규격·예외·단속 세칙의 신규 공표 미확인."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intl",
+      "title": "③ 국제경제·전쟁",
+      "items": [
+        {
+          "tag": "[우크라이나·러시아]",
+          "countries": [
+            "우크라이나",
+            "러시아"
+          ],
+          "title": "전력·석유화학 시설 공습 지속",
+          "bullets": [
+            {
+              "text": "AP의 15일 보도에 따르면 우크라이나 오데사주 당국은 러시아 공격으로 초르노모르스크 에너지 시설이 피해를 입고 약 4만1천 수용가의 전력 공급이 일시 중단됐다고 발표.",
+              "source": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-starshield-spacex-energy-winter-b139307f0d3ed0f7d0b222c08c30a4a1"
+            },
+            {
+              "text": "러시아 니즈네캄스크 당국도 산업지구 피해 발표. 우크라이나군은 석유화학 시설과 정유소 타격을 주장했으며, 시설별 피해 규모·생산 중단 기간의 독립 확인 미제시."
+            }
+          ]
+        },
+        {
+          "tag": "[미국·중국·태국]",
+          "countries": [
+            "미국",
+            "중국",
+            "태국"
+          ],
+          "title": "트럼프 아시아 순방·통상 일정 예고",
+          "bullets": [
+            {
+              "text": "AP가 15일 트럼프 대통령의 17일 필리핀 방문과 18일 중국 APEC 참석 예정 보도. 백악관은 마닐라에서 태국과 무역협정 및 상업 거래 서명 계획 설명.",
+              "source": "AP",
+              "url": "https://apnews.com/article/trump-asia-midterm-elections-xi-30ac0f6937301f36904808f278b79b1e"
+            },
+            {
+              "text": "중국 선전에서 통상 의제와 정상 면담 추진 예정. 이번 보도는 순방 계획이며, 신규 관세 조정·협정 서명 완료·상업 계약 금액의 확정 발표와 구분 필요."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neighbors",
+      "title": "④ 인근국",
+      "items": [
+        {
+          "tag": "[우즈베키스탄·키르기스스탄·카자흐스탄]",
+          "countries": [
+            "우즈베키스탄",
+            "키르기스스탄",
+            "카자흐스탄"
+          ],
+          "title": "국경 공동 통관체계 도입 협의",
+          "bullets": [
+            {
+              "text": "UzDaily가 15일 우즈베키스탄의 키르기스스탄·카자흐스탄 대상 공동 통관 협의를 보도. 우즈베키스탄 관세위원회 관계자의 11월 11일 설명에 근거한 일부 국경 초소의 One Stop 체계 도입 논의.",
+              "source": "UzDaily",
+              "url": "https://www.uzdaily.uz/ru/uzbekistan-vediot-peregovory-s-kazakhstanom-i-kyrgyzstanom-o-edinom-tamozhennom-kontrole/"
+            },
+            {
+              "text": "양국 세관의 동일 건물 배치, 별도 건물에서 수출·수입 절차 분담, 검사 결과 상호 인정의 세 가지 모델 검토. 적용 모델·초소별 개시일 미확정이며, 중복검사 폐지 시행과 구분 필요."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄·우즈베키스탄]",
+          "countries": [
+            "타지키스탄",
+            "우즈베키스탄"
+          ],
+          "title": "합작기업·원자재 심층가공 협의",
+          "bullets": [
+            {
+              "text": "UzDaily가 15일 타지키스탄 산업신기술부와 우즈베키스탄 광업지질부 차관급의 11월 12일 면담 보도. 양국 산업협력 프로그램 이행과 합작기업 설립·생산 협력 확대 논의.",
+              "source": "UzDaily",
+              "url": "https://www.uzdaily.uz/ru/tadzhikistan-i-uzbekistan-obsudili-promyshlennuiu-kooperatsiiu/"
+            },
+            {
+              "text": "원자재 심층가공과 고부가가치 제품 생산을 협력 방향으로 제시. 개별 합작사업·투자금액·금융약정·착공 일정 미발표."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "followup",
+      "title": "⑤ 오늘 확인할 것",
+      "items": [
+        {
+          "tag": "[키르기스스탄]",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "수입품 전자목록 적용 세칙",
+          "bullets": [
+            {
+              "text": "국세청 원문 공고에서 2027년 1월 시범 시행 대상·상품 등록 절차·STI-150·STI-151 적용 예외 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "[우즈베키스탄·키르기스스탄·카자흐스탄]",
+          "countries": [
+            "우즈베키스탄",
+            "키르기스스탄",
+            "카자흐스탄"
+          ],
+          "title": "공동 통관의 합의·개시 여부",
+          "bullets": [
+            {
+              "text": "관세당국의 공동 통관 적용 초소·선택 모델·검사 결과 상호 인정 범위·시행일에 관한 공식 합의 공개 여부 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄·우즈베키스탄]",
+          "countries": [
+            "타지키스탄",
+            "우즈베키스탄"
+          ],
+          "title": "산업협력 사업·포럼 조달 정보",
+          "bullets": [
+            {
+              "text": "산업협력 프로그램의 합작기업·가공사업 목록과 12월 두샨베 석탄산업 포럼의 일자·참가 절차·투자 및 조달공고 공개 여부 확인 필요."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "수집 기준: 2026-11-15 08:13~2026-11-16 08:13 KST. 사건 발생일과 기사 게시일을 구분하고, 11월 14일 수입품 전자목록 안내 1건만 누락 보완으로 수록.",
+    "한국 관련 및 대사 인사 신규 발표 미확인. 양국 주재 한국대사·주한 양국 대사의 임명·부임·신임장·이임을 검색했으나 기간 내 확인 자료 부재로 ① 공란 유지. 한국 공관 활동 게시판 직접 열람은 타지키스탄 페이지 접속 오류·키르기스스탄 페이지 리디렉션 반복으로 제한.",
+    "현지 매체 게시 시각은 비슈케크 UTC+6, 두샨베·타슈켄트 UTC+5 기준 기재. AP 게시 시각은 검색 결과의 UTC 메타데이터 기준이며 원문 본문 대조 완료.",
+    "Reuters 원문을 우선 검색했으나 채택 가능한 기간 내 원문 URL 미확인. 호르무즈 관련 재게재 기사는 게시 시간대 확인 부족으로 제외."
+  ]
+};
