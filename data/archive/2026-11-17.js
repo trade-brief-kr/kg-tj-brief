@@ -1,0 +1,266 @@
+window.REPORT_ARCHIVE = window.REPORT_ARCHIVE || {};
+window.REPORT_ARCHIVE["2026-11-17"] = {
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T08:24:56+09:00",
+  "coverage": "최근 24시간 발표 중심",
+  "headline": "키르기스스탄, 백설탕 수입 6개월 금지 결정…공식 공표 후 10일 경과 시 발효",
+  "sections": [
+    {
+      "id": "korea",
+      "title": "① 한국 관련 외교·인사",
+      "items": [
+        {
+          "tag": "[한국·타지키스탄]",
+          "countries": [
+            "한국",
+            "타지키스탄"
+          ],
+          "title": "주한 타지키스탄대사관 기념행사",
+          "bullets": [
+            {
+              "text": "주한 타지키스탄대사관이 11월 16일 대통령의 날 기념행사 개최. 살로히딘 키롬 대사의 타지키스탄 대외정책 소개.",
+              "source": "Khovar",
+              "url": "https://khovar.tj/2026/11/dar-seul-r-zi-prezidenti-um-urii-to-ikiston-ta-lil-karda-shud/"
+            },
+            {
+              "text": "물·기후변화·빙하 보호 등 국제적 의제 설명. 신규 통상협정·투자계약 발표 미확인."
+            },
+            {
+              "text": "대사 인사: 양국 주재 한국대사와 주한 양국 대사의 임명·부임·신임장·이임 관련 신규 발표 미확인."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kg_tj",
+      "title": "② 타지키스탄·키르기스스탄",
+      "items": [
+        {
+          "tag": "[키르기스스탄]",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "백설탕 수입 6개월 금지 결정",
+          "bullets": [
+            {
+              "text": "카슴알리예프 총리가 서명한 백설탕 수입 6개월 금지 결정의 11월 16일 보도. 식량안보·가격 안정 및 국내 사탕무·설탕 가공기반 유지 목적.",
+              "source": "Interfax",
+              "url": "https://www.interfax.ru/world/1129335"
+            },
+            {
+              "text": "제3국·EAEU 회원국산 포함. 통과운송·재수출용·extra 등급 및 발효 전 철도로 발송한 물량 등에 예외 적용.",
+              "source": "Economist.kg",
+              "url": "https://economist.kg/agriculture/2026/11/16/zapret-importa-sahara-2026/"
+            },
+            {
+              "text": "공식 공표 후 10일 경과 시 발효 조건. 결정 채택과 실제 시행을 구분, 공식 공표일·확정 시행일 미확인."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄]",
+          "countries": [
+            "타지키스탄"
+          ],
+          "title": "기후목표 이행 필요재원 추계",
+          "bullets": [
+            {
+              "text": "환경보호위원회가 11월 16일 Khovar 보도를 통해 COP31의 중앙아시아 기후복원력 경관 프로그램(CLiCA) 출범행사 참여와 기존 NDC 3.0 목표 설명.",
+              "source": "Khovar",
+              "url": "https://khovar.tj/2026/11/to-ikiston-niyat-dorad-to-soli-2035-partov-oi-gaz-oi-gulhonairo-to-40-foiz-ko-ish-di-ad/"
+            },
+            {
+              "text": "1990년 대비 온실가스 감축목표 2030년 10%·2035년 15%, 국제 재정·기술 지원 확보 시 각각 25%·40%로 확대 가능."
+            },
+            {
+              "text": "2026~2035년 필요재원 20~22.5 billion USD(200억~225억 미국 달러) 추계. 신규 금융약정·승인·집행액과 구분 필요."
+            }
+          ]
+        },
+        {
+          "tag": "[키르기스스탄]",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "1~10월 소비자물가 8.8% 상승",
+          "bullets": [
+            {
+              "text": "국가통계위원회 부위원장이 11월 16일 기자회견에서 1~10월 소비자물가·요금의 2025년 12월 대비 8.8% 상승 발표.",
+              "source": "Kaktus.media",
+              "url": "https://kaktus.media/doc/556921_chto_podorojalo_bolshe_vsego_vlasti_otchitalis_o_roste_cen_v_kyrgyzstane.html"
+            },
+            {
+              "text": "서비스 12.2%, 식품·비알코올 음료 7.7%, 비식품 7.6% 상승. 전년 동월 대비 상승률과 구분 필요."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄·러시아]",
+          "countries": [
+            "타지키스탄",
+            "러시아"
+          ],
+          "title": "19~20일 푸틴 두샨베 방문 예고",
+          "bullets": [
+            {
+              "text": "크렘린이 11월 16일 라흐몬 대통령 초청에 따른 푸틴 대통령의 19~20일 타지키스탄 실무방문 발표. 중국 APEC 일정 이후 두샨베 정상회담 예정.",
+              "source": "Interfax",
+              "url": "https://www.interfax.ru/world/1129367"
+            },
+            {
+              "text": "전략적 동반자·동맹관계와 국제·지역 현안 논의 예정. 방문 예고 단계로 신규 협력문서·사업금융 발표 미확인."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intl",
+      "title": "③ 국제경제·전쟁",
+      "items": [
+        {
+          "tag": "[이란·미국]",
+          "countries": [
+            "이란",
+            "미국"
+          ],
+          "title": "호르무즈 유조선 화재·기뢰 경고",
+          "bullets": [
+            {
+              "text": "이란 국영방송이 11월 16일 군 당국을 인용해 호르무즈해협에서 유조선 3척의 기뢰 피격·화재 주장 및 해운사 대상 항로 위험 경고 보도.",
+              "source": "AP",
+              "url": "https://apnews.com/article/mideast-news-israel-gaza-iran-houthis-november-16-2026-8830a880160d69e2d7f1fd654207a121"
+            },
+            {
+              "text": "영국 해사무역기구(UKMTO)도 별도 유조선의 발사체 피격·기관실 화재 보고. 이란 측 기뢰 피해 주장과 별도 구분, 선박별 피해·항로 안전 추가 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "[우크라이나·러시아]",
+          "countries": [
+            "우크라이나",
+            "러시아"
+          ],
+          "title": "정유시설·크림대교 공격 확대",
+          "bullets": [
+            {
+              "text": "러시아 국방부가 11월 16일 우크라이나 드론 1,336대 격추 주장. 우크라이나군은 아조프 유류저장시설 2곳과 일스키 정유시설 타격 주장.",
+              "source": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-drone-attacks-oil-refineries-242cb3fd47fc79293cf264c321b93800"
+            },
+            {
+              "text": "크렘린은 케르치대교 피해 경미 주장, 대교 당국은 16일 저녁 차량 운행 재개 발표. 정유시설 피해·가동중단 규모 독립 검증 미확인."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neighbors",
+      "title": "④ 인근국",
+      "items": [
+        {
+          "tag": "[우즈베키스탄·EU]",
+          "countries": [
+            "우즈베키스탄",
+            "EU"
+          ],
+          "title": "EU 동관 잠정 반덤핑 관세 보도",
+          "bullets": [
+            {
+              "text": "UzDaily가 11월 16일 EU의 우즈베키스탄산 동관 잠정 반덤핑 관세 5.6~11% 적용 보도. 규정 채택 11월 10일·관보 게재 11일·발효 12일로 신규 보도일과 구분.",
+              "source": "UzDaily",
+              "url": "https://www.uzdaily.uz/ru/es-ustanovil-poshliny-na-mednye-truby-iz-uzbekistana/"
+            },
+            {
+              "text": "Angren Pipe Plant 5.6%, Sharq Tubes 6.8%, ICG Infinity Copper Group·기타 업체 11%. 대상 TARIC 7411 10 90 10, 수입 시 잠정 관세액 상당 담보 제공으로 확정 징수와 구분.",
+              "source": "유럽연합 집행위원회(EUR-Lex)",
+              "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/2497/oj"
+            },
+            {
+              "text": "개별 세율 적용에 제조자 확인문이 기재된 유효 상업송장 필요. 잠정 결론은 최종 조사 단계에서 변경 가능."
+            }
+          ]
+        },
+        {
+          "tag": "[카자흐스탄]",
+          "countries": [
+            "카자흐스탄"
+          ],
+          "title": "IMF 협의·10개월 성장률 4.5%",
+          "bullets": [
+            {
+              "text": "벡테노프 총리가 11월 16일 IMF 카자흐스탄 조사단장과 조사 결과·후속 협력 논의. 정부 발표를 인용한 Kazinform의 거시경제 현황 보도.",
+              "source": "Kazinform",
+              "url": "https://www.inform.kz/ru/mvf-polozhitelno-otsenil-makroekonomicheskuyu-situatsiyu-v-kazahstane-67fcc85b"
+            },
+            {
+              "text": "1~10월 GDP 성장률 4.5%, 고정자본투자 증가율 4.9%·투자액 18.3조 텡게 제시. IMF 정책협의로 신규 차관 승인·약정 발표 미확인."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "followup",
+      "title": "⑤ 오늘 확인할 것",
+      "items": [
+        {
+          "tag": "[타지키스탄]",
+          "countries": [
+            "타지키스탄"
+          ],
+          "title": "기후재원 사업화·조달 정보",
+          "bullets": [
+            {
+              "text": "NDC 3.0 필요재원과 CLiCA 관련 우선사업·수원기관·국제기금 신청 목록 공개 여부 확인 필요."
+            },
+            {
+              "text": "재원 추계와 구분되는 금융 승인·약정, 조달공고·입찰 일정 공개 여부 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "[키르기스스탄]",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "설탕 수입금지 발효일·예외",
+          "bullets": [
+            {
+              "text": "내각 결정의 공식 공표일과 공표 후 10일 경과에 따른 시행일 확정 여부 확인 필요."
+            },
+            {
+              "text": "extra 등급·통과운송·재수출 및 발효 전 철도 발송분의 예외 적용 서류·세관 지침 공개 여부 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "[우즈베키스탄·EU]",
+          "countries": [
+            "우즈베키스탄",
+            "EU"
+          ],
+          "title": "동관 관세 대응기한·서류",
+          "bullets": [
+            {
+              "text": "발효 후 5일 이내 청문 요청·15일 이내 서면의견 제출 규정과 관련 업체의 공개 대응 여부 확인 필요."
+            },
+            {
+              "text": "제조자별 TARIC 추가코드·송장 확인문·담보 요건의 거래별 적용 확인 필요."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "한국 공관 첫 화면은 리다이렉트 오류로 직접 열람 제한. 외교부·공관 검색결과와 현지 공관 보도 대조, 검색 범위에서 대사 인사 신규 발표 미확인.",
+    "Reuters 해당 날짜 원문 검색에서 관련 URL 미확보로 국제 2건은 AP 원문 사용. AP 게시 시각은 검색 메타데이터의 UTC 시각 적용.",
+    "현지 매체의 시각 표기에 Khovar·UzDaily·Kazinform UTC+05:00, Kaktus.media UTC+06:00, Interfax UTC+03:00 적용. 수집 종료는 2026-11-17 08:17 KST 고정.",
+    "로군·누레크·캄바라타-1·중국–키르기스스탄–우즈베키스탄 철도 및 주요 국제금융기구의 신규 승인·조달은 수집 구간 내 원문·게시 시각을 함께 확인하지 못해 제외.",
+    "백설탕 수입금지 결정 원문 직접 열람 미확보. Interfax와 Economist.kg 보도 대조, 공식 공표일·시행일 별도 확인 필요."
+  ]
+};
