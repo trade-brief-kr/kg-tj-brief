@@ -1,0 +1,277 @@
+window.REPORT_ARCHIVE = window.REPORT_ARCHIVE || {};
+window.REPORT_ARCHIVE["2026-11-19"] = {
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T08:21:01+09:00",
+  "coverage": "최근 24시간 발표 중심",
+  "headline": "한·타지키스탄, 두샨베 스마트 모빌리티와 도로·철도 협력 후속 논의",
+  "sections": [
+    {
+      "id": "korea",
+      "title": "① 한국 관련 외교·인사",
+      "items": [
+        {
+          "tag": "[한국·타지키스탄]",
+          "countries": [
+            "한국",
+            "타지키스탄"
+          ],
+          "title": "한·타지키스탄 교통 협력 논의",
+          "bullets": [
+            {
+              "text": "18일 보도에 따르면 김용석 대도시권광역교통위원장이 17일 수흐롭 요쿠브조다 타지키스탄 교통부 차관과 도로관리·지능형교통체계·대중교통 운영 경험 공유 방안 협의.",
+              "source": "뉴스핌",
+              "url": "https://www.newspim.com/news/view/20261118000610"
+            },
+            {
+              "text": "한국 측은 두샨베 도시교통 기본계획과 교통관제센터 등 세부계획 수립을 지원하는 2026~2028년 공적개발원조 사업에 협조 요청. 9월 체결한 교통·물류 교육훈련 및 철도 양해각서 2건의 후속 협의 단계로, 신규 계약·착공 미발표."
+            },
+            {
+              "text": "대사 인사: 주타지키스탄·주키르기스스탄 한국대사와 주한 양국 대사의 임명·부임·신임장 제정·이임 신규 발표 미확인."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kg_tj",
+      "title": "② 타지키스탄·키르기스스탄",
+      "items": [
+        {
+          "tag": "[타지키스탄·미국]",
+          "countries": [
+            "타지키스탄",
+            "미국"
+          ],
+          "title": "타지키스탄·미국 광업 협력 협의",
+          "bullets": [
+            {
+              "text": "에모말리 라흐몬 타지키스탄 대통령이 18일 두샨베에서 크리스토퍼 랜도 미국 국무부 부장관과 장기 광업 협력 및 미국 기업과의 정보기술·인공지능 협력 방안 논의.",
+              "source": "Khovar",
+              "url": "https://khovar.tj/rus/2026/11/prezident-respubliki-tadzhikistan-emomali-rahmon-prinyal-zamestitelya-gossekretarya-ssha-kristofera-landau/"
+            },
+            {
+              "text": "면담 발표에서 광업 대상 사업·투자액·신규 계약 미공개."
+            },
+            {
+              "text": "별도로 타지키스탄 투자위원회는 17일 미국 국무부·국제민간기업센터(CIPE) 관계자와 2027년 4월 두샨베 개최 예정인 B5+1 포럼의 의제와 기업 참여 방안 협의.",
+              "source": "Khovar",
+              "url": "https://khovar.tj/rus/2026/11/forum-b5-1-zaplanirovan-na-aprel-2027-goda-v-dushanbe/"
+            }
+          ]
+        },
+        {
+          "tag": "[키르기스스탄]",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "1~10월 성장률 10.5% 보고",
+          "bullets": [
+            {
+              "text": "아딜베크 카시말리예프 키르기스스탄 내각 의장이 18일 의회에서 2026년 1~10월 국내총생산(GDP) 성장률 10.5%, 고정자본 투자 4,229억 솜(62.9% 증가) 보고.",
+              "source": "Kabar",
+              "url": "https://ru.kabar.kg/news/kyrgyzstan-v-chetverke-liderov-po-rostu-ekonomiki-kasymaliev-ob-itogax-2025-goda/"
+            },
+            {
+              "text": "1~9월 대외교역액 141억 달러(16.6% 증가), 상반기 외국인직접투자 유입액 7억 990만 달러(26% 증가)."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄]",
+          "countries": [
+            "타지키스탄"
+          ],
+          "title": "두샨베 사업장 태양광 설치",
+          "bullets": [
+            {
+              "text": "두샨베시가 제과공장 시린의 태양광 설비 1,483kW 가동을 확인했다고 Avesta.tj가 18일 보도.",
+              "source": "Avesta.tj",
+              "url": "https://avesta.tj/2026/11/18/v-dushanbe-predpriyatiya-perehodyat-na-solnechnuyu-energiyu/"
+            },
+            {
+              "text": "시린은 156kW를 추가 설치 중이며 증설 완료 시 총 1,639kW 예정. 파로본 시장의 1,240kW 설비는 설치 마무리 단계로 가동 개시 미확인."
+            }
+          ]
+        },
+        {
+          "tag": "[키르기스스탄]",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "전자상거래 세수 5배 증가",
+          "bullets": [
+            {
+              "text": "키르기스스탄 경제통상부가 18일 전자상거래 포럼에서 2025년 전자상거래 세수가 전년의 5배에 달했으며 플랫폼 등록 자국 판매자가 3만 명을 넘었다고 발표.",
+              "source": "Kabar",
+              "url": "https://ru.kabar.kg/news/nalogovye-postupleniya-ot-elektronnoj-torgovli-v-kyrgyzstane-vyrosli-v-pyat-raz/"
+            },
+            {
+              "text": "유라시아경제연합(EAEU) 전자상거래 협정은 2026년 8월 서명 단계로 소개됐으며, 이번 보도에서 협정 발효일과 세수 총액 미공개."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intl",
+      "title": "③ 국제경제·전쟁",
+      "items": [
+        {
+          "tag": "[중국·미국·러시아]",
+          "countries": [
+            "중국",
+            "미국",
+            "러시아"
+          ],
+          "title": "선전 APEC 통상·제재 발언",
+          "bullets": [
+            {
+              "text": "시진핑 중국 국가주석은 18일 선전 아시아태평양경제협력체(APEC) 기업인 행사에서 개방 무역과 시장 접근 확대를 강조. 블라디미르 푸틴 러시아 대통령은 대러 제재 비판.",
+              "source": "Reuters (MarketScreener 재게재)",
+              "url": "https://uk.marketscreener.com/news/china-s-xi-calls-for-free-and-open-trade-at-apec-summit-ce785edcde8ff623"
+            },
+            {
+              "text": "도널드 트럼프 미국 대통령은 이날 선전에 도착했으며 미·중·러 정상 회동은 19일 예정. 관세·제재 변경 합의 미발표."
+            }
+          ]
+        },
+        {
+          "tag": "[이란·아랍에미리트]",
+          "countries": [
+            "이란",
+            "아랍에미리트",
+            "미국",
+            "쿠웨이트",
+            "바레인"
+          ],
+          "title": "호르무즈 유조선 피격 피해 발표",
+          "bullets": [
+            {
+              "text": "아랍에미리트 국영 석유회사 ADNOC가 18일 호르무즈 해협에서 전날 피격된 자사 유조선의 선원 1명 실종·11명 부상 발표.",
+              "source": "AP",
+              "url": "https://apnews.com/article/iran-us-kuwait-gulf-attacks-bahrain-b1f0b530cffe951e6fcc1e27b2e1af94"
+            },
+            {
+              "text": "AP는 18일 이란의 쿠웨이트 내 미군 기지와 바레인 공격도 보도. 유조선 피격에 따른 운항 차질 규모 미확인."
+            }
+          ]
+        },
+        {
+          "tag": "[러시아·우크라이나]",
+          "countries": [
+            "러시아",
+            "우크라이나"
+          ],
+          "title": "러시아 남부 정유시설 피격",
+          "bullets": [
+            {
+              "text": "우크라이나군이 18일 러시아 남부 크라스노다르주의 정유시설 2곳을 타격했다고 발표.",
+              "source": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-weapons-kerch-bridge-crimea-3c37f13d278c1312d795f108a7a91904"
+            },
+            {
+              "text": "우크라이나군이 밝힌 두 시설의 합산 처리능력은 연간 약 9,500만 배럴. 러시아 당국은 지역 내 산업시설 2곳의 피격 사실을 밝혔으며, 가동 중단 여부와 생산 감소 규모 미확인."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neighbors",
+      "title": "④ 인근국",
+      "items": [
+        {
+          "tag": "[카자흐스탄]",
+          "countries": [
+            "카자흐스탄",
+            "키르기스스탄",
+            "우즈베키스탄",
+            "튀르키예",
+            "아제르바이잔"
+          ],
+          "title": "카자흐 디지털경제 협정 비준법 의결",
+          "bullets": [
+            {
+              "text": "카자흐스탄 의회가 18일 키르기스스탄 등이 참여하는 튀르크국가기구(OTS) 회원국 간 디지털경제 동반자 협정 비준법 의결.",
+              "source": "Kazinform",
+              "url": "https://www.inform.kz/amp/kazahstan-ityurkskie-strani-dogovorilis-razvivat-elektronnuyu-torgovlyu-20ad94d7"
+            },
+            {
+              "text": "협정은 전자송장, 세관·운송 데이터 교환, 국경 간 전자결제를 다루며 이행 공동위원회 설치 예정. 협정 발효일과 실무 적용 일정 미확인."
+            }
+          ]
+        },
+        {
+          "tag": "[투르크메니스탄·파키스탄]",
+          "countries": [
+            "투르크메니스탄",
+            "파키스탄",
+            "아프가니스탄",
+            "인도"
+          ],
+          "title": "투르크멘 가스관·송전 협의",
+          "bullets": [
+            {
+              "text": "18일 보도에 따르면 투르크메니스탄·파키스탄 외교장관이 공동 주재한 이슬라마바드 경제협력위에서 아프가니스탄 경유 TAPI 가스관과 TAP 송전 협력 논의.",
+              "source": "Trend.az",
+              "url": "https://www.trend.az/casia/turkmenistan/4247700.html"
+            },
+            {
+              "text": "보도에 나온 회의 결과는 사업 추진 방안 협의 단계로, 신규 금융약정·공사 계약 미발표."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "followup",
+      "title": "⑤ 오늘 확인할 것",
+      "items": [
+        {
+          "tag": "[한국·타지키스탄]",
+          "countries": [
+            "한국",
+            "타지키스탄"
+          ],
+          "title": "두샨베 교통사업 조달 일정",
+          "bullets": [
+            {
+              "text": "두샨베 스마트 모빌리티 기본·세부계획 수립 용역의 발주기관과 조달 일정 공개 여부 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄·미국]",
+          "countries": [
+            "타지키스탄",
+            "미국"
+          ],
+          "title": "광업 협력 대상 사업",
+          "bullets": [
+            {
+              "text": "타지키스탄 정부의 대미 광업 협력 대상 사업과 B5+1 포럼에서 공개할 투자사업 목록 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "[카자흐스탄·키르기스스탄]",
+          "countries": [
+            "카자흐스탄",
+            "키르기스스탄"
+          ],
+          "title": "디지털경제 협정 발효 일정",
+          "bullets": [
+            {
+              "text": "튀르크국가기구 디지털경제 협정 발효일과 전자송장·통관 데이터 교환 공동위원회 출범 일정 공개 여부 확인 필요."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "원문 URL 미확인: Reuters, Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China. 최초 게시 시각이 표시된 MarketScreener 재게재본 확인.",
+    "주한 키르기스스탄 대사관의 키르기스스탄 정부 포털 일부 상세 페이지는 본문 확인 불가.",
+    "Asia-Plus의 타지키스탄 국가투자계획 기사 원문 열람 불가."
+  ]
+};
