@@ -125,6 +125,7 @@ cat "$ROOT/tools/research_prompt.md"
 cat <<TAIL
 
 ## 검색 체크리스트 (모두 개별 검색한 뒤 작성)
+- ① 한국 관련 외교·인사: 국내 주요 언론과 외교부·산업통상부 보도자료를 한국어로 먼저 검색한 뒤 공관·현지 출처를 확인한다.
 - 한–타지키스탄, 한–키르기스스탄 (한국어·러시아어·영어: "Южная Корея Таджикистан", "Кыргызстан Корея", KOTRA, KOICA, 대사).
 - 타지키스탄: Avesta, Khovar, Asia-Plus, president.tj — 정부결정·인사, 로군·누레크, 광물, 철도, 국제금융기구.
 - 키르기스스탄: Kabar, 24.kg, AKIpress, Kaktus.media, egov.kg/gov.kg — 내각 인사, 캄바라타-1, CKU 철도, EAEU 제도, 제재·결제.
