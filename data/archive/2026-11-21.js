@@ -1,0 +1,249 @@
+window.REPORT_ARCHIVE = window.REPORT_ARCHIVE || {};
+window.REPORT_ARCHIVE["2026-11-21"] = {
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T08:28:39+09:00",
+  "coverage": "최근 24시간 발표 중심",
+  "headline": "한국·타지키스탄, 박물관 디지털화와 공적개발원조 활용 협의",
+  "sections": [
+    {
+      "id": "korea",
+      "title": "① 한국 관련 외교·인사",
+      "items": [
+        {
+          "tag": "[한국·타지키스탄]",
+          "countries": [
+            "한국",
+            "타지키스탄"
+          ],
+          "title": "박물관 디지털화·ODA 협의",
+          "bullets": [
+            {
+              "text": "20일 Khovar 보도에 따르면 타지키스탄 국립박물관장과 한국 측 대표단이 소장품 디지털화, 공동 고고학 조사, 복원시설 현대화 방안 협의.",
+              "source": "Khovar",
+              "url": "https://khovar.tj/2026/11/amkorii-osorhonai-mill-bo-muassisa-oi-so-avii-um-urii-koreya-gustarish-meyobad/"
+            },
+            {
+              "text": "한국 공적개발원조(ODA)와 국제 보조금 활용 가능성 검토. 사업 승인·지원 금액·일정 미발표."
+            },
+            {
+              "text": "대사 인사: 양국 주재 한국대사 및 주한 양국 대사의 임명·부임·신임장 제정·이임 신규 발표 미확인."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kg_tj",
+      "title": "② 타지키스탄·키르기스스탄",
+      "items": [
+        {
+          "tag": "[타지키스탄]",
+          "countries": [
+            "타지키스탄"
+          ],
+          "title": "2026~2030년 산업화 계획안",
+          "bullets": [
+            {
+              "text": "[누락 보완·11.19] 타지키스탄 산업신기술부, 19일 2026~2030년 가속 산업화 계획안 정부 심사 중이라고 공개.",
+              "source": "Khovar",
+              "url": "https://khovar.tj/rus/2026/11/razrabotan-proekt-novoj-programmy-uskorennoj-industrializatsii-tadzhikistana-na-2026-2030-gody/"
+            },
+            {
+              "text": "비철·희소금속 생산 및 국내 원료 가공 확대 방향 제시. 계획 채택 시점과 개별 사업 재원 미발표."
+            }
+          ]
+        },
+        {
+          "tag": "[키르기스스탄·카자흐스탄·러시아·벨라루스·아르메니아]",
+          "countries": [
+            "키르기스스탄",
+            "카자흐스탄",
+            "러시아",
+            "벨라루스",
+            "아르메니아"
+          ],
+          "title": "유라시아경제연합 관세법 개정안",
+          "bullets": [
+            {
+              "text": "20일 24.kg 보도에 따르면 유라시아경제위원회가 유라시아경제연합 관세법 개정안 두 건 마련.",
+              "source": "24.kg",
+              "url": "https://24.kg/article/popravki-gotovy-v-stranah-eaes-namereny-pokonchit-so-shemami-lzhetranzita"
+            },
+            {
+              "text": "허위 통과운송 방지 등을 담은 첫 개정안은 회원국 국내 절차 마무리 단계로 12월 서명 예정. 인증수출자 제도를 담은 두 번째 개정안은 규제영향평가 단계."
+            }
+          ]
+        },
+        {
+          "tag": "[키르기스스탄]",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "세계은행·ADB 협력 논의",
+          "bullets": [
+            {
+              "text": "20일 키르기스스탄 내각, 카시말리예프 내각 의장과 세계은행·아시아개발은행(ADB) 관계자의 개혁 과제 지원 협의 공개.",
+              "source": "24.kg",
+              "url": "https://24.kg/article/v-kabmine-kr-obsudili-dalnejshee-sotrudnichestvo-s-abr-i-vsemirnym-bankom"
+            },
+            {
+              "text": "내각 의장, 1~10월 GDP 10.5% 성장과 고정자본투자 62.9% 증가 제시. 신규 사업별 금융 승인·약정액 미발표."
+            }
+          ]
+        },
+        {
+          "tag": "[키르기스스탄]",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "플라스틱 금지 시행 준비",
+          "bullets": [
+            {
+              "text": "20일 24.kg 보도에 따르면 키르기스스탄 천연자원부와 업계가 2027년 일부 플라스틱 제품과 일반 비닐봉투 금지에 대비한 시장 준비 상황 점검.",
+              "source": "24.kg",
+              "url": "https://24.kg/article/v-bishkeke-obsudili-gotovnost-rynka-k-zapretu-otdelnyh-plastikovyh-izdelij"
+            },
+            {
+              "text": "수입 관리, 허위 생분해 표시 단속, 생분해성 인증과 시험기관 인정이 우선 과제. 조정된 적용 품목의 세부 목록 미공개."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intl",
+      "title": "③ 국제경제·전쟁",
+      "items": [
+        {
+          "tag": "[미국·이란]",
+          "countries": [
+            "미국",
+            "이란"
+          ],
+          "title": "미국, 이란 석유 수익망 제재",
+          "bullets": [
+            {
+              "text": "20일 미국 재무부, 이란의 해외 석유 판매대금 수취에 관여한 이란인 4명 제재 지정.",
+              "source": "Reuters",
+              "url": "https://www.streetinsider.com/Reuters/US%2BTreasury%2Bsanctions%2BIranian%2Btrustees%2Bcollecting%2Boil%2Brevenues/27382282.html"
+            },
+            {
+              "text": "미국 해외자산통제국의 특별지정제재대상(SDN) 명단 등재에 따른 미국 관할 자산 동결 및 미국인의 관련 거래 원칙적 금지."
+            }
+          ]
+        },
+        {
+          "tag": "[러시아·우크라이나·프랑스·영국·독일]",
+          "countries": [
+            "러시아",
+            "우크라이나",
+            "프랑스",
+            "영국",
+            "독일"
+          ],
+          "title": "유럽 대표단 방러 일정 미정",
+          "bullets": [
+            {
+              "text": "20일 러시아 대통령실, 우크라이나 전쟁 종전 논의와 관련해 러시아가 초청한 유럽 대표단의 모스크바 방문 일정 미정 발표.",
+              "source": "Interfax",
+              "url": "https://www.interfax.ru/russia/1130400"
+            },
+            {
+              "text": "러시아 외무차관, 프랑스·영국·독일 대표단 방문 검토 중이라고 설명. 아부다비 회동과 같은 3자 협의 재개 합의 미발표."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neighbors",
+      "title": "④ 인근국",
+      "items": [
+        {
+          "tag": "[카자흐스탄·우즈베키스탄·타지키스탄]",
+          "countries": [
+            "카자흐스탄",
+            "우즈베키스탄",
+            "타지키스탄"
+          ],
+          "title": "카자흐·우즈베크 국경 화물 대기",
+          "bullets": [
+            {
+              "text": "20일 우즈베키스탄 세관, 카자흐스탄과의 국경 검문소 정상 운영 설명. 카자흐스탄 당국 집계로 오전 9시 코느스바예프 검문소 화물차 100대 대기.",
+              "source": "UzDaily.uz",
+              "url": "https://www.uzdaily.uz/ru/uzbekistan-obiasnil-ocheredi-gruzovikov-na-granitse-s-kazakhstanom/"
+            },
+            {
+              "text": "양국 국경 세관의 하루 통과 차량은 2021년 1,165대에서 2026년 11월 3,130대로 증가. 우즈베키스탄 경유 타지키스탄행 등 중국발 통과화물 증가가 배경으로 제시."
+            }
+          ]
+        },
+        {
+          "tag": "[우즈베키스탄·튀르키예]",
+          "countries": [
+            "우즈베키스탄",
+            "튀르키예"
+          ],
+          "title": "지자흐 550MW 발전소 가동",
+          "bullets": [
+            {
+              "text": "20일 우즈베키스탄 에너지부, 튀르키예 Cengiz Enerji가 참여한 지자흐주 550MW 복합화력발전소의 전력망 연결 및 공급 개시 발표.",
+              "source": "UzDaily.uz",
+              "url": "https://www.uzdaily.uz/ru/v-dzhizakskoi-oblasti-zapustili-tes-moshchnostiu-550-mvt/"
+            },
+            {
+              "text": "사업비 5억 달러($500 million). 연 44억 kWh는 에너지부가 밝힌 발전 가능량."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "followup",
+      "title": "⑤ 오늘 확인할 것",
+      "items": [
+        {
+          "tag": "",
+          "countries": [
+            "한국",
+            "타지키스탄"
+          ],
+          "title": "",
+          "bullets": [
+            {
+              "text": "타지키스탄 국립박물관 협의 관련 한국 측 참여기관과 공적개발원조 사업 제안서 공개 여부 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "",
+          "countries": [
+            "타지키스탄"
+          ],
+          "title": "",
+          "bullets": [
+            {
+              "text": "타지키스탄 산업화 계획안의 정부 채택 및 비철·희소금속 분야 우선사업과 재원 공개 여부 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "",
+          "bullets": [
+            {
+              "text": "유라시아경제연합의 허위 통과운송 방지 개정안 서명 일정 및 키르기스스탄 적용 시점 확인 필요."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "주타지키스탄·주키르기즈공화국 한국대사관 홈페이지 일부 경로 접속 오류.",
+    "원문 URL 미확인: Reuters ‘US Treasury sanctions Iranian trustees collecting oil revenues’. 게시 시각을 확인한 StreetInsider 재게재본 사용."
+  ]
+};
