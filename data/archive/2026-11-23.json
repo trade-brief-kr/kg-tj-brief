@@ -1,0 +1,245 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T08:22:56+09:00",
+  "coverage": "최근 24시간 발표 중심",
+  "headline": "한국 대표단·타지키스탄 국립박물관, 보존시설 현대화와 공동 발굴 협의",
+  "sections": [
+    {
+      "id": "korea",
+      "title": "① 한국 관련 외교·인사",
+      "items": [
+        {
+          "tag": "[한국·타지키스탄]",
+          "countries": [
+            "한국",
+            "타지키스탄"
+          ],
+          "title": "국립박물관 현대화 협력 논의",
+          "bullets": [
+            {
+              "text": "11월 22일 보도에 따르면 타지키스탄 국립박물관장과 한국 대표단이 보존 실험실·전시실 현대화와 공동 고고학 발굴을 협의.",
+              "source": "Khovar",
+              "url": "https://khovar.tj/rus/2026/11/natsionalnyj-muzej-tadzhikistana-planiruet-privlech-opyt-respubliki-koreya-dlya-modernizatsii-laboratorij-i-zalov-2/"
+            },
+            {
+              "text": "소장품 디지털화와 한국 공적개발원조(ODA) 활용 가능성도 협의. 지원 승인과 사업비·조달 일정 미발표."
+            },
+            {
+              "text": "대사 인사: 주키르기스스탄·주타지키스탄 한국대사 및 주한 양국 대사 관련 신규 발표 미확인."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kg_tj",
+      "title": "② 타지키스탄·키르기스스탄",
+      "items": [
+        {
+          "tag": "[키르기스스탄·영국]",
+          "countries": [
+            "키르기스스탄",
+            "영국"
+          ],
+          "title": "제재 대상 결제업체 청산 결정",
+          "bullets": [
+            {
+              "text": "11월 22일 보도에 따르면 키르기스스탄 재무부가 11월 16일 영국의 10월 제재 대상인 결제업체 프로세싱 KG의 자진 청산을 결정.",
+              "source": "Kaktus.media",
+              "url": "https://kaktus.media/doc/557303_v_kyrgyzstane_likvidiryut_kompaniu_processing_keydji_popavshyu_pod_sankcii_britanii.html"
+            },
+            {
+              "text": "정부의 2025년 투입액은 2억 솜. 채권자 정산 후 잔여금의 국고 귀속 방침, 실제 회수액 미확인."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄]",
+          "countries": [
+            "타지키스탄"
+          ],
+          "title": "원유 정제량 증가와 가동 현황",
+          "bullets": [
+            {
+              "text": "11월 22일 보도에 따르면 타지키스탄 에너지수자원부가 2026년 1~10월 원유 정제량 약 1만 5,100톤 및 정유업체 13곳 중 6곳 가동을 공개.",
+              "source": "Sputnik Таджикистан",
+              "url": "https://tj.sputniknews.ru/20261122/tajikistan-obemy-pererabotki-nefti-slozhnosti-1082445458.html"
+            },
+            {
+              "text": "정제량은 전년 동기 대비 547.6톤 증가. 정제설비 복구와 원유 수입은 협의 단계이며 수입 계약·재가동 일정 미발표."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intl",
+      "title": "③ 국제경제·전쟁",
+      "items": [
+        {
+          "tag": "[이란·미국]",
+          "countries": [
+            "이란",
+            "미국"
+          ],
+          "title": "호르무즈 주변 선박 공격 집계",
+          "bullets": [
+            {
+              "text": "CNN의 11월 22일 영국 해사무역기구 자료 분석에서 호르무즈 해협·페르시아만·오만만의 선박 공격 신고가 10월 30건 초과, 11월 22일까지 최소 22건으로 집계.",
+              "source": "CNN Brasil",
+              "url": "https://www.cnnbrasil.com.br/internacional/ataques-iranianos-no-estreito-de-ormuz-atingem-maior-nivel-da-guerra/"
+            },
+            {
+              "text": "해협 상선 통항량은 2025년 기준치 하회. 10월 이전 해당 해역의 공격 신고는 월평균 약 10건."
+            }
+          ]
+        },
+        {
+          "tag": "[러시아·우크라이나]",
+          "countries": [
+            "러시아",
+            "우크라이나"
+          ],
+          "title": "우크라이나 5개 주 전력 공급 차질",
+          "bullets": [
+            {
+              "text": "우크라이나 에너지부에 따르면 11월 22일 러시아 공격 여파로 오데사를 포함한 5개 주 일부 수용가에 전력 공급 차질 지속.",
+              "source": "RBC-Ukraine",
+              "url": "https://newsukraine.rbc.ua/news/russian-strikes-leave-parts-of-five-ukrainian-1795346239.html"
+            },
+            {
+              "text": "오데사와 인근 핵심 시설의 전력 공급은 일부 복구 시작. 전체 복구 시점 미발표."
+            }
+          ]
+        },
+        {
+          "tag": "[튀르키예·호주]",
+          "countries": [
+            "튀르키예",
+            "호주"
+          ],
+          "title": "COP31 포괄 결정문 합의 불발",
+          "bullets": [
+            {
+              "text": "11월 22일 튀르키예 안탈리아에서 폐막한 제31차 유엔기후변화협약 당사국총회(COP31)의 포괄 결정문 채택 불발.",
+              "source": "AP",
+              "url": "https://apnews.com/article/cop31-climate-talks-united-nations-global-warming-baed7f1491d16a00ee9b60a35596e1f6"
+            },
+            {
+              "text": "유럽연합 등은 공동 주최국 튀르키예가 제시한 초안에 화석연료 관련 문구가 빠진 점에 이의 제기."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neighbors",
+      "title": "④ 인근국",
+      "items": [
+        {
+          "tag": "[우즈베키스탄·타지키스탄]",
+          "countries": [
+            "우즈베키스탄",
+            "타지키스탄"
+          ],
+          "title": "페르가나 송전선 복구",
+          "bullets": [
+            {
+              "text": "우즈베키스탄 에너지부가 타지키스탄을 지나는 500kV 송전선 L-503의 11월 22일 01시 21분 재가동을 발표.",
+              "source": "UzDaily.uz",
+              "url": "https://www.uzdaily.uz/en/uzbekistan-restores-power-line-linking-syrdarya-plant-to-ferghana/"
+            },
+            {
+              "text": "11월 19일 악천후로 철탑이 무너져 페르가나 계곡 일부에 공급 제한 발생. 양국 인력이 철탑 복구와 시험을 마친 뒤 송전 재개."
+            }
+          ]
+        },
+        {
+          "tag": "[우즈베키스탄·카자흐스탄]",
+          "countries": [
+            "우즈베키스탄",
+            "카자흐스탄"
+          ],
+          "title": "기슈트쿠프리크 국경 검문소 재개",
+          "bullets": [
+            {
+              "text": "우즈베키스탄 관세위원회가 카자흐스탄 접경 기슈트쿠프리크 검문소의 여객 통행을 11월 25일 16시(현지 시각) 재개한다고 발표.",
+              "source": "UzDaily.uz",
+              "url": "https://www.uzdaily.uz/en/gishtkuprik-border-checkpoint-to-reopen-on-25-november/"
+            },
+            {
+              "text": "현대화 이후 양측 검문소의 처리 능력은 하루 최대 7만 명, 혼잡기 최대 10만 명. 화물차 통행 재개 일정은 기사에서 미확인."
+            }
+          ]
+        },
+        {
+          "tag": "[투르크메니스탄·아프가니스탄·아랍에미리트]",
+          "countries": [
+            "투르크메니스탄",
+            "아프가니스탄",
+            "아랍에미리트"
+          ],
+          "title": "투르크멘 경유 수출 거래 체결",
+          "bullets": [
+            {
+              "text": "11월 22일 보도에 따르면 투르크메니스탄 국영 상품거래소의 11월 18일 거래에서 아프가니스탄·아랍에미리트 구매자와 경유 공급 거래 2건, 총 1,134만 달러 체결.",
+              "source": "Trend.az",
+              "url": "https://www.trend.az/casia/turkmenistan/4249272.html"
+            },
+            {
+              "text": "공급자는 국영 투르크멘네비트. 실제 선적 여부와 납품 일정 미확인."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "followup",
+      "title": "⑤ 오늘 확인할 것",
+      "items": [
+        {
+          "tag": "",
+          "countries": [
+            "한국",
+            "타지키스탄"
+          ],
+          "title": "",
+          "bullets": [
+            {
+              "text": "타지키스탄 국립박물관 현대화 협의의 한국 측 참여 기관과 ODA 사업 신청·승인 여부 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "",
+          "bullets": [
+            {
+              "text": "프로세싱 KG 청산 관련 키르기스스탄 의회 예산위원회 공개 안건과 채권자 정산 후 국고 회수액 공개 여부 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "",
+          "countries": [
+            "우즈베키스탄",
+            "카자흐스탄"
+          ],
+          "title": "",
+          "bullets": [
+            {
+              "text": "기슈트쿠프리크·지베크 졸리 검문소의 화물차 처리 범위와 재개 시점에 관한 양국 세관 공지 확인 필요."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "CNN의 호르무즈 선박 공격 집계는 영문 원문 접속 실패로 CNN Brasil 재게재본 사용.",
+    "키르기스스탄 관개사업 금융협정은 재무부 원문 접속 오류와 정부 포털의 게시 시각 미확인으로 제외."
+  ]
+}
