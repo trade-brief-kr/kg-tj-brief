@@ -16,6 +16,9 @@ bash tools/run_codex_research.sh            # 결과: data/report.json (검증 �
 - 10·11이면 한 번만 재실행. 그 밖의 실패는 게시하지 않고 로그(/tmp/kg-tj-brief-runs/codex-run-*/)를 보고.
 - 드라이런: `bash tools/run_codex_research.sh --out /tmp/kgtj-dry/report.json`
 - 프롬프트만 확인: `bash tools/run_codex_research.sh --prompt-only --out /tmp/kgtj-dry/report.json`
+- 프롬프트 생성 전 한국 관련 기사 후보를 최대 120초 동안 수집한다. Codex는 원문을 확인한 후보만 쓰며, `KGTJ_SKIP_CANDIDATES=1`로 사전수집을 생략할 수 있다.
+- 프롬프트의 KST 마감에 맞춰 첫 섹션부터 JSON 초안을 저장하고, 느리거나 열리지 않는 사이트는 한 번만 시도한다.
+- 타임아웃 후 회수한 초안이 검증을 통과하면 로그 폴더에 `salvaged` 파일을 남긴다. 회수 또는 검증에 실패하면 종료 코드 11을 반환한다.
 - 품질 경고(키르기스/타지키스탄 항목 0건 등)는 verify-log.json의 warnings에 남고 게시는 막지 않는다.
 
 ## 3. 게시

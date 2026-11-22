@@ -11,6 +11,9 @@ from datetime import date, datetime
 from pathlib import Path
 from urllib.parse import urlparse
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common.brief_common import js_literal  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 SECTION_IDS = ['korea', 'kg_tj', 'intl', 'neighbors', 'followup']
 SECTION_TITLES = {
@@ -100,10 +103,6 @@ def validate(r):
     notes = r.get('notes', [])
     require(isinstance(notes, list) and all(isinstance(n, str) for n in notes), 'notes: 문자열 배열이어야 합니다.')
     return r
-
-
-def js_literal(value):
-    return json.dumps(value, ensure_ascii=False, indent=2).replace('\u2028', '\\u2028').replace('\u2029', '\\u2029')
 
 
 def main(argv):

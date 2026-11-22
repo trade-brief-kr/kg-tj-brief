@@ -75,7 +75,25 @@ for s in r.get('sections', []):
 PY
 )"
 
+KOREA_CANDIDATES=""
+if [ "${KGTJ_SKIP_CANDIDATES:-0}" != 1 ]; then
+  timeout 120 python3 "$ROOT/tools/collect_korea_candidates.py" --out "$LOGDIR/korea_candidates.json" > "$LOGDIR/korea_candidates.log" 2>&1 || true
+  sed -n '/^한국 관련 후보 /{p;q;}' "$LOGDIR/korea_candidates.log"
+  KOREA_CANDIDATES="$(python3 - "$LOGDIR/korea_candidates.json" <<'PY' 2>/dev/null
+import json
+import sys
+
+with open(sys.argv[1], encoding="utf-8") as file:
+    candidates = json.load(file)["candidates"]
+for item in candidates[:20]:
+    published = item.get("publishedAt") or "발행시각 미확인"
+    print(f"- [{published}] {item['source']} | {item['title']} | {item['url']}")
+PY
+)" || KOREA_CANDIDATES=""
+fi
+
 # --- 자체완결 프롬프트 구성 ---------------------------------------------------
+source "$ROOT/tools/common/codex_exec.sh"
 PROMPT="$LOGDIR/prompt.md"
 {
 cat <<HDR
@@ -122,15 +140,22 @@ $PREV_TITLES
 
 HDR
 cat "$ROOT/tools/research_prompt.md"
-cat <<TAIL
+cat <<CHECKLIST
 
-## 검색 체크리스트 (모두 개별 검색한 뒤 작성)
-- ① 한국 관련 외교·인사: 국내 주요 언론과 외교부·산업통상부 보도자료를 한국어로 먼저 검색한 뒤 공관·현지 출처를 확인한다.
+## 한국 관련 후보 기사 (사전 자동 수집, 미검증 힌트)
+아래는 국내외 뉴스 검색·보도자료 목록에서 자동으로 모은 후보다. 사실로 간주하지 말고 원문을 직접 열어 확인한 것만 쓴다. 관련 없으면 무시한다. ① 한국 관련 항목에 쓸 만한 것이 있으면 우선 확인한다.
+${KOREA_CANDIDATES:-- (사전 수집 후보 없음 — 직접 검색)}
+
+## 검색 체크리스트 (시간 내 개별 검색)
+- ① 한국 관련 외교·인사: 국내 주요 언론·외교부·산업통상부 보도자료·현지 통신사를 확인한다. 현지 한국대사관 홈페이지·게시판은 열지 않는다.
 - 한–타지키스탄, 한–키르기스스탄 (한국어·러시아어·영어: "Южная Корея Таджикистан", "Кыргызстан Корея", KOTRA, KOICA, 대사).
 - 타지키스탄: Avesta, Khovar, Asia-Plus, president.tj — 정부결정·인사, 로군·누레크, 광물, 철도, 국제금융기구.
 - 키르기스스탄: Kabar, 24.kg, AKIpress, Kaktus.media, egov.kg/gov.kg — 내각 인사, 캄바라타-1, CKU 철도, EAEU 제도, 제재·결제.
 - 인근국: 카자흐스탄·우즈베키스탄·투르크메니스탄·아프가니스탄 (Kazinform, Trend, UzDaily, Gazeta.uz, Interfax).
 - 국제: Reuters 원문 우선 — 러시아–우크라이나, 이란·호르무즈, 중·미 통상, 에너지.
+CHECKLIST
+brief_time_budget_prompt "$TIMEOUT" report.json
+cat <<TAIL
 
 ## 마지막 점검 (저장 전에 반드시)
 - date가 "$TODAY"인지, sections 5개·순서·id, headline 비어 있지 않은지, JSON 문법 유효.
@@ -142,28 +167,18 @@ TAIL
 if [ "$PROMPT_ONLY" = 1 ]; then echo "프롬프트만 생성(Codex 미실행): $PROMPT"; exit 0; fi
 
 # --- Codex 실행 (임시 폴더에서만 쓰기 가능: 저장소 수정 불가) ---
-echo "[$(TZ=Asia/Seoul date +%T) KST] Codex 조사 시작 (최대 ${TIMEOUT}s) work=$WORK log=$LOGDIR"
-START=$(date +%s)
-# 비밀 환경변수는 Codex에 넘기지 않는다.
-for v in $(compgen -e | grep -E '^(DATA_GO_KR|GH_|GITHUB_)|KEY|TOKEN|SECRET|PASSWORD' || true); do unset "$v"; done
-timeout --kill-after=60 "$TIMEOUT" codex --search exec -c model_reasoning_effort="\"$EFFORT\"" --skip-git-repo-check --ephemeral \
-  -s workspace-write -C "$WORK" -o "$LOGDIR/codex-last-message.txt" - < "$PROMPT" \
-  > "$LOGDIR/codex.log" 2>&1
-RC=$?
-ELAPSED=$(( $(date +%s) - START ))
-echo "[$(TZ=Asia/Seoul date +%T) KST] Codex 종료 rc=$RC, ${ELAPSED}s"
-echo "$ELAPSED" > "$LOGDIR/elapsed_seconds"
-if [ $RC -eq 124 ] || [ $RC -eq 137 ]; then echo "Codex 타임아웃(${TIMEOUT}s)" >&2; exit 11; fi
-if [ $RC -ne 0 ]; then echo "Codex 실패 rc=$RC (로그: $LOGDIR/codex.log)" >&2; tail -5 "$LOGDIR/codex.log" >&2; exit 10; fi
-if [ ! -s "$WORK/report.json" ]; then echo "Codex가 report.json을 만들지 않음" >&2; exit 12; fi
+brief_codex_run "$WORK" "$PROMPT" "$LOGDIR" "$TIMEOUT" "$EFFORT" || exit $?
 cp "$WORK/report.json" "$LOGDIR/raw-report.json"
 
 # --- 후처리 검증 (날짜·스키마·기간; 링크 curl은 기본 OFF) ---
 python3 "$ROOT/tools/verify_report.py" --input "$LOGDIR/raw-report.json" --output "$LOGDIR/verified-report.json" \
   --log "$LOGDIR/verify-log.json" $CHECK_LINKS
 VRC=$?
-if [ $VRC -ne 0 ]; then exit $VRC; fi
-python3 - "$LOGDIR/verified-report.json" "$TODAY" "$ROOT/tools" <<'PY' || exit 14
+if [ "$VRC" -ne 0 ]; then
+  if [ "$BRIEF_SALVAGED" = 1 ]; then exit 11; fi
+  exit "$VRC"
+fi
+python3 - "$LOGDIR/verified-report.json" "$TODAY" "$ROOT/tools" <<'PY' || {
 import json, sys
 sys.path.insert(0, sys.argv[3])
 from build_report_js import validate
@@ -172,7 +187,14 @@ validate(r)
 assert r['date'] == sys.argv[2], f"date {r['date']} != {sys.argv[2]}"
 print(f"사전검증 통과(게시 안 함): {r['date']}")
 PY
+  if [ "$BRIEF_SALVAGED" = 1 ]; then exit 11; fi
+  exit 14
+}
 
 cp "$LOGDIR/verified-report.json" "$OUT.tmp" && mv "$OUT.tmp" "$OUT"
+if [ "$BRIEF_SALVAGED" = 1 ]; then
+  touch "$LOGDIR/salvaged"
+  echo "주의: 타임아웃 후 회수한 결과(일부 항목 누락 가능)"
+fi
 echo "완료: $OUT (로그 $LOGDIR). 다음 단계: python3 tools/publish_daily.py"
 exit 0
