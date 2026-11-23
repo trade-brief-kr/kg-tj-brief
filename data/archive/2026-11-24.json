@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T08:24:52+09:00",
+  "coverage": "최근 24시간 발표 중심",
+  "headline": "한국 관세청·ADB, 키르기스스탄·타지키스탄 등과 디지털 통관 현대화 협의",
+  "sections": [
+    {
+      "id": "korea",
+      "title": "① 한국 관련 외교·인사",
+      "items": [
+        {
+          "tag": "[한국·키르기스스탄·타지키스탄]",
+          "countries": [
+            "한국",
+            "키르기스스탄",
+            "타지키스탄"
+          ],
+          "title": "중앙아 디지털 통관 현대화 협의",
+          "bullets": [
+            {
+              "text": "한국 관세청과 아시아개발은행(ADB)이 23일 서울에서 키르기스스탄과 타지키스탄을 포함한 중앙아시아경제협력체(CAREC) 10개국 대표단 대상 관세행정 현대화 워크숍 개시.",
+              "source": "헤럴드경제",
+              "url": "https://mbiz.heraldcorp.com/article/10946134"
+            },
+            {
+              "text": "24일까지 한국 전자통관시스템(UNI-PASS) 시연과 통관 데이터 연계 및 전자무역서류의 법적 인정 방안 논의 일정. 시범사업 참여국과 시행 일정 미발표."
+            },
+            {
+              "text": "대사 인사: 양국 주재 한국대사와 주한 양국 대사의 임명·부임·신임장 제정·이임 관련 신규 발표 미확인."
+            }
+          ]
+        },
+        {
+          "tag": "[한국·키르기스스탄]",
+          "countries": [
+            "한국",
+            "키르기스스탄"
+          ],
+          "title": "비슈케크 롯데호텔 개발 의향서",
+          "bullets": [
+            {
+              "text": "키르기스스탄 관광개발청이 롯데호텔앤리조트 및 LP인베스트와 비슈케크 호텔 복합단지 개발 의향서를 체결했다고 카바르가 23일 보도.",
+              "source": "Kabar",
+              "url": "https://ru.kabar.kg/news/v-bishkeke-poyavitsya-pyatizvyozdochnyj-otel-mirovogo-brenda-lott/"
+            },
+            {
+              "text": "5성급 호텔·서비스드 레지던스·업무시설을 포함한 구상으로 호텔은 프랜차이즈 운영 예정. 투자 규모, 본계약과 착공 일정 미확인."
+            }
+          ]
+        },
+        {
+          "tag": "[한국·타지키스탄]",
+          "countries": [
+            "한국",
+            "타지키스탄"
+          ],
+          "title": "화생방 안전 협력 양해각서",
+          "bullets": [
+            {
+              "text": "타지키스탄 국립과학아카데미 산하 화생방 안전보안청과 한국 국방안보포럼이 안전 분야 협력 양해각서에 화상으로 서명했다고 호바르가 23일 보도.",
+              "source": "Khovar",
+              "url": "https://khovar.tj/rus/2026/11/mezhdu-tadzhikistanom-i-respublikoj-koreya-podpisan-memorandum-o-vzaimoponimanii-po-razvitiyu-sotrudnichestva-v-sfere-himicheskoj-biologicheskoj-radiatsionnoj-i-yadernoj-bezopasnosti/"
+            },
+            {
+              "text": "소관 기관 간 교육·과학기술 협력과 전문인력 양성을 위한 양해각서 체결 단계. 사업별 예산과 시행 일정 미발표."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kg_tj",
+      "title": "② 타지키스탄·키르기스스탄",
+      "items": [
+        {
+          "tag": "[키르기스스탄]",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "4개 업종 민간투자 잠재력 진단",
+          "bullets": [
+            {
+              "text": "키르기스스탄 경제상업부와 세계은행그룹이 비슈케크에서 민간부문 진단을 발표했다고 카바르가 23일 보도. 과일·베리 생산 및 가공, 자연관광, 의류 제조, 송어 양식이 분석 대상.",
+              "source": "Kabar",
+              "url": "https://ru.kabar.kg/news/kakie-otrasli-kyrgyzstana-mogut-privlech-svyshe-500-mln-investitsiy-spisok/"
+            },
+            {
+              "text": "세계은행그룹 추산은 인증·물류·인허가 등 제도 개선을 전제로 민간투자 최대 6억 1,800만 달러, 일자리 최대 6만 7,600개. 개별 투자 약정이나 자금 집행 미확인."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄]",
+          "countries": [
+            "타지키스탄"
+          ],
+          "title": "1~10월 산업생산 13.5% 증가",
+          "bullets": [
+            {
+              "text": "Economist.kg가 23일 유라시아개발은행(EDB) 자료를 인용해 타지키스탄의 1~10월 산업생산이 전년 동기 대비 13.5%, 제조업 생산이 19.2% 증가했다고 보도.",
+              "source": "Economist.kg",
+              "url": "https://economist.kg/ekonomika/2026/11/23/stroika-investitsii-i-eksport-za-schet-chego-rastut-ekonomiki-trekh-stran-tsentralnoi-azii/"
+            },
+            {
+              "text": "같은 기간 고정자본투자 322억 소모니, 비교가격 기준 전년 동기 대비 42.1% 증가."
+            }
+          ]
+        },
+        {
+          "tag": "[타지키스탄]",
+          "countries": [
+            "타지키스탄"
+          ],
+          "title": "로마규정 탈퇴 통보와 발효일",
+          "bullets": [
+            {
+              "text": "트렌드가 23일 유엔 기탁 통지를 인용해 타지키스탄의 국제형사재판소(ICC) 로마규정 탈퇴 통보 접수일이 20일이라고 보도.",
+              "source": "Trend.az",
+              "url": "https://www.trend.az/casia/tajikistan/4249830.html"
+            },
+            {
+              "text": "유엔 기탁 통지상 탈퇴 발효일은 2027년 11월 20일. ICC 당사국총회 의장단은 23일 탈퇴 통보에 유감을 표명하고 결정 재고를 촉구."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intl",
+      "title": "③ 국제경제·전쟁",
+      "items": [
+        {
+          "tag": "[러시아·우크라이나·키르기스스탄]",
+          "countries": [
+            "러시아",
+            "우크라이나",
+            "키르기스스탄"
+          ],
+          "title": "EU 제22차 대러 제재안 발표",
+          "bullets": [
+            {
+              "text": "EU 집행위원회가 23일 러시아 은행 약 60곳에 대한 거래 금지와 국제은행간통신협회(SWIFT) 배제, 제재 우회에 관여하는 제3국의 가상자산·결제망 규제 강화를 제안.",
+              "source": "AP",
+              "url": "https://apnews.com/article/europe-russia-sanctions-banks-crypto-visas-sports-ecad86868390f6602b346c70d1fa5757"
+            },
+            {
+              "text": "키이우 인디펜던트는 제3국 가상자산 규제의 키르기스스탄 적용 추진을 보도. 제재안 발효까지 EU 27개 회원국 승인 필요.",
+              "source": "The Kyiv Independent",
+              "url": "https://kyivindependent.com/eu-proposes-package-of-russian-sports-sanctions-visa-bans-and-a-krygyzstan-crypto-blockade/"
+            }
+          ]
+        },
+        {
+          "tag": "[리비아·미국]",
+          "countries": [
+            "리비아",
+            "미국"
+          ],
+          "title": "중동 공급 증가에 국제유가 하락",
+          "bullets": [
+            {
+              "text": "로이터가 23일 중동 원유 공급 증가와 리비아 샤라라 송유관 재가동으로 브렌트유와 미국 서부텍사스산원유(WTI) 선물이 3% 넘게 하락해 약 3개월 만의 최저치로 마감했다고 보도.",
+              "source": "Reuters",
+              "url": "https://ca.marketscreener.com/news/oil-holds-in-tight-range-as-gulf-attacks-sustain-risk-premium-ce785ed3d08bf124"
+            },
+            {
+              "text": "브렌트유 배럴당 89.37달러로 3.46% 하락, WTI 배럴당 80.17달러로 3.88% 하락."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neighbors",
+      "title": "④ 인근국",
+      "items": [
+        {
+          "tag": "[키르기스스탄·카자흐스탄]",
+          "countries": [
+            "키르기스스탄",
+            "카자흐스탄"
+          ],
+          "title": "찰디바르 검문소 차량 통행 중단",
+          "bullets": [
+            {
+              "text": "키르기스스탄 국경수비대가 카자흐스탄 측 시파타이 바티르 검문소 공사로 찰디바르 검문소의 카자흐스탄발 화물차 진입을 23일부터 제한하고 25일 현지 01시부터 모든 차량 통행을 중단한다고 발표.",
+              "source": "24.kg",
+              "url": "https://24.kg/article/pp-chaldybar-zakroyut-dlya-avtomobilej-s-25-noyabrya"
+            },
+            {
+              "text": "보행 통과 허용. 차량은 악졸·악틸레크·켄불룬·톡목 검문소로 우회 가능. 카자흐스탄 측의 잠정 재개 시점은 2027년 말."
+            }
+          ]
+        },
+        {
+          "tag": "[우즈베키스탄]",
+          "countries": [
+            "우즈베키스탄"
+          ],
+          "title": "2027년 텅스텐 생산 확대 목표",
+          "bullets": [
+            {
+              "text": "우즈베키스탄 경제재정부가 2027년 텅스텐 제품 생산 목표를 1,700톤으로 제시했다고 우즈데일리가 23일 보도. 2026년 생산 전망치 350톤의 약 4.9배.",
+              "source": "UzDaily.uz",
+              "url": "https://www.uzdaily.uz/en/uzbekistan-targets-1700-tonnes-of-tungsten-output-in-2027/"
+            },
+            {
+              "text": "1~10월 텅스텐 제품 수출 실적은 123.6톤, 2,760만 달러. 치르치크 습식제련 설비 증설과 신규 정광 가공시설 가동은 계획 단계."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "followup",
+      "title": "⑤ 오늘 확인할 것",
+      "items": [
+        {
+          "tag": "",
+          "countries": [
+            "한국",
+            "키르기스스탄",
+            "타지키스탄"
+          ],
+          "title": "",
+          "bullets": [
+            {
+              "text": "서울 CAREC 워크숍 종료 후 통관 데이터 연계 시범사업의 참여국과 일정 공개 여부 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "",
+          "countries": [
+            "키르기스스탄",
+            "러시아"
+          ],
+          "title": "",
+          "bullets": [
+            {
+              "text": "EU 제22차 대러 제재안의 키르기스스탄 가상자산 서비스 적용 범위와 회원국 승인 일정 공개 여부 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "",
+          "countries": [
+            "키르기스스탄",
+            "카자흐스탄"
+          ],
+          "title": "",
+          "bullets": [
+            {
+              "text": "찰디바르 통행 중단에 따른 악틸레크 등 대체 검문소의 화물차 통과 조건과 운영시간 확인 필요."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "원문 URL 미확인: (Reuters·Oil slumps to 3-month low on increased Middle East flows, Libyan pipeline restart).",
+    "타지키스탄 국제프로그램센터·고려대 협력 소식은 게시물 본문 접속 오류와 게시 시각 미확인으로 제외."
+  ]
+}
