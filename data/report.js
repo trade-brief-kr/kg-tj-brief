@@ -1,68 +1,31 @@
 window.REPORT_DATA = {
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T08:24:52+09:00",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T08:21:43+09:00",
   "coverage": "최근 24시간 발표 중심",
-  "headline": "한국 관세청·ADB, 키르기스스탄·타지키스탄 등과 디지털 통관 현대화 협의",
+  "headline": "키르기스스탄 의회 위원회, 최대 10억 유로 EBRD 인프라 기본협정안 승인",
   "sections": [
     {
       "id": "korea",
       "title": "① 한국 관련 외교·인사",
       "items": [
         {
-          "tag": "[한국·키르기스스탄·타지키스탄]",
-          "countries": [
-            "한국",
-            "키르기스스탄",
-            "타지키스탄"
-          ],
-          "title": "중앙아 디지털 통관 현대화 협의",
-          "bullets": [
-            {
-              "text": "한국 관세청과 아시아개발은행(ADB)이 23일 서울에서 키르기스스탄과 타지키스탄을 포함한 중앙아시아경제협력체(CAREC) 10개국 대표단 대상 관세행정 현대화 워크숍 개시.",
-              "source": "헤럴드경제",
-              "url": "https://mbiz.heraldcorp.com/article/10946134"
-            },
-            {
-              "text": "24일까지 한국 전자통관시스템(UNI-PASS) 시연과 통관 데이터 연계 및 전자무역서류의 법적 인정 방안 논의 일정. 시범사업 참여국과 시행 일정 미발표."
-            },
-            {
-              "text": "대사 인사: 양국 주재 한국대사와 주한 양국 대사의 임명·부임·신임장 제정·이임 관련 신규 발표 미확인."
-            }
-          ]
-        },
-        {
-          "tag": "[한국·키르기스스탄]",
-          "countries": [
-            "한국",
-            "키르기스스탄"
-          ],
-          "title": "비슈케크 롯데호텔 개발 의향서",
-          "bullets": [
-            {
-              "text": "키르기스스탄 관광개발청이 롯데호텔앤리조트 및 LP인베스트와 비슈케크 호텔 복합단지 개발 의향서를 체결했다고 카바르가 23일 보도.",
-              "source": "Kabar",
-              "url": "https://ru.kabar.kg/news/v-bishkeke-poyavitsya-pyatizvyozdochnyj-otel-mirovogo-brenda-lott/"
-            },
-            {
-              "text": "5성급 호텔·서비스드 레지던스·업무시설을 포함한 구상으로 호텔은 프랜차이즈 운영 예정. 투자 규모, 본계약과 착공 일정 미확인."
-            }
-          ]
-        },
-        {
           "tag": "[한국·타지키스탄]",
           "countries": [
             "한국",
             "타지키스탄"
           ],
-          "title": "화생방 안전 협력 양해각서",
+          "title": "타지키스탄 비밀번호 없는 인증 교육",
           "bullets": [
             {
-              "text": "타지키스탄 국립과학아카데미 산하 화생방 안전보안청과 한국 국방안보포럼이 안전 분야 협력 양해각서에 화상으로 서명했다고 호바르가 23일 보도.",
-              "source": "Khovar",
-              "url": "https://khovar.tj/rus/2026/11/mezhdu-tadzhikistanom-i-respublikoj-koreya-podpisan-memorandum-o-vzaimoponimanii-po-razvitiyu-sotrudnichestva-v-sfere-himicheskoj-biologicheskoj-radiatsionnoj-i-yadernoj-bezopasnosti/"
+              "text": "패스워드리스 얼라이언스와 타지키스탄 통신청·현지 통신사의 10일 두샨베 비밀번호 없는 인증 교육 개최에 대한 보안뉴스의 24일 보도.",
+              "source": "보안뉴스",
+              "url": "https://www.boannews.com/news/articleView.html?idxno=147495"
             },
             {
-              "text": "소관 기관 간 교육·과학기술 협력과 전문인력 양성을 위한 양해각서 체결 단계. 사업별 예산과 시행 일정 미발표."
+              "text": "한국 주도로 제정된 ITU-T X.1280 기반 인증을 공공서비스 포털에 적용한 뒤 현지 기업·대학 관계자 약 50명 대상 교육·실습 진행. 민간 서비스 도입 실적 미발표."
+            },
+            {
+              "text": "대사 인사: 주키르기스스탄·주타지키스탄 한국대사 및 주한 양국 대사의 임명·부임·신임장·이임 관련 신규 발표 미확인."
             }
           ]
         }
@@ -77,15 +40,35 @@ window.REPORT_DATA = {
           "countries": [
             "키르기스스탄"
           ],
-          "title": "4개 업종 민간투자 잠재력 진단",
+          "title": "EBRD 인프라 기본협정안 승인",
           "bullets": [
             {
-              "text": "키르기스스탄 경제상업부와 세계은행그룹이 비슈케크에서 민간부문 진단을 발표했다고 카바르가 23일 보도. 과일·베리 생산 및 가공, 자연관광, 의류 제조, 송어 양식이 분석 대상.",
+              "text": "키르기스스탄 의회 위원회의 24일 유럽부흥개발은행(EBRD) 인프라 금융 기본협정안 승인.",
+              "source": "24.kg",
+              "url": "https://24.kg/article/komitet-zhk-odobril-soglashenie-s-ebrr-na-kredit-v-1-milliard-evro"
+            },
+            {
+              "text": "최대 10억 유로 가운데 무상지원 2억 2,000만 유로, 양허성 대출 7억 8,000만 유로. 상하수도·교통·에너지 등은 개별 사업별 금융조건 협의 및 별도 약정 필요."
+            }
+          ]
+        },
+        {
+          "tag": "[키르기스스탄]",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "ADB 첫 수상태양광 금융 승인",
+          "bullets": [
+            {
+              "text": "아시아개발은행(ADB)의 키르기스스탄 첫 대규모 수상태양광 사업 금융 2,000만 달러 승인에 대한 Kabar의 24일 보도.",
               "source": "Kabar",
-              "url": "https://ru.kabar.kg/news/kakie-otrasli-kyrgyzstana-mogut-privlech-svyshe-500-mln-investitsiy-spisok/"
+              "url": "https://en.kabar.kg/news/adb-supports-kyrgyzstans-first-utility-scale-floating-solar-photovoltaic-power-plant/"
             },
             {
-              "text": "세계은행그룹 추산은 인증·물류·인허가 등 제도 개선을 전제로 민간투자 최대 6억 1,800만 달러, 일자리 최대 6만 7,600개. 개별 투자 약정이나 자금 집행 미확인."
+              "text": "비슈케크 인근 차칸 5호 수력발전소에 15MW 규모 조성 계획. 양허성 대출 1,955만 달러, 무상지원 45만 달러, 키르기스스탄 정부 부담 202만 달러."
+            },
+            {
+              "text": "금융 승인 단계로, 본공사 착공·자금 집행 미확인."
             }
           ]
         },
@@ -94,15 +77,15 @@ window.REPORT_DATA = {
           "countries": [
             "타지키스탄"
           ],
-          "title": "1~10월 산업생산 13.5% 증가",
+          "title": "세계은행과 민간투자 확대 협의",
           "bullets": [
             {
-              "text": "Economist.kg가 23일 유라시아개발은행(EDB) 자료를 인용해 타지키스탄의 1~10월 산업생산이 전년 동기 대비 13.5%, 제조업 생산이 19.2% 증가했다고 보도.",
-              "source": "Economist.kg",
-              "url": "https://economist.kg/ekonomika/2026/11/23/stroika-investitsii-i-eksport-za-schet-chego-rastut-ekonomiki-trekh-stran-tsentralnoi-azii/"
+              "text": "타지키스탄 국가투자·국유재산관리위원회와 세계은행 대표단의 민간부문 지원, 투자 유치 및 일자리 창출 협의에 대한 24일 보도.",
+              "source": "NAVO",
+              "url": "https://navonews.tj/article/tadzhikistan-i-vsemirnyy-bank-obsudili-razvitie-chastnogo-sektora-i-privlechenie-investitsiy"
             },
             {
-              "text": "같은 기간 고정자본투자 322억 소모니, 비교가격 기준 전년 동기 대비 42.1% 증가."
+              "text": "중소기업 육성과 우선 산업의 투자 기회 확대 논의. 신규 금융 약정·금액 미발표."
             }
           ]
         },
@@ -111,15 +94,15 @@ window.REPORT_DATA = {
           "countries": [
             "타지키스탄"
           ],
-          "title": "로마규정 탈퇴 통보와 발효일",
+          "title": "건자재 투자협정 4건 승인",
           "bullets": [
             {
-              "text": "트렌드가 23일 유엔 기탁 통지를 인용해 타지키스탄의 국제형사재판소(ICC) 로마규정 탈퇴 통보 접수일이 20일이라고 보도.",
-              "source": "Trend.az",
-              "url": "https://www.trend.az/casia/tajikistan/4249830.html"
+              "text": "타지키스탄 하원의 23일 시멘트·건자재 생산시설 4건과 전기통신 1건의 투자협정 승인에 대한 NAVO의 24일 보도.",
+              "source": "NAVO",
+              "url": "https://navonews.tj/article/v-tadzhikistane-postroyat-chetyre-novykh-tsementnykh-zavoda"
             },
             {
-              "text": "유엔 기탁 통지상 탈퇴 발효일은 2027년 11월 20일. ICC 당사국총회 의장단은 23일 탈퇴 통보에 유감을 표명하고 결정 재고를 촉구."
+              "text": "수그드주 시멘트·석회 등 생산시설 1건, 하틀론주 시멘트 공장 1건, 바르조브 지역 시멘트 공장 2건. 사업별 투자액은 해당 보도에서 미공개."
             }
           ]
         }
@@ -130,41 +113,61 @@ window.REPORT_DATA = {
       "title": "③ 국제경제·전쟁",
       "items": [
         {
-          "tag": "[러시아·우크라이나·키르기스스탄]",
+          "tag": "[미국·중국·한국·일본]",
           "countries": [
-            "러시아",
-            "우크라이나",
-            "키르기스스탄"
+            "미국",
+            "중국",
+            "한국",
+            "일본"
           ],
-          "title": "EU 제22차 대러 제재안 발표",
+          "title": "미국 과잉생산 관세 조사 발표 임박",
           "bullets": [
             {
-              "text": "EU 집행위원회가 23일 러시아 은행 약 60곳에 대한 거래 금지와 국제은행간통신협회(SWIFT) 배제, 제재 우회에 관여하는 제3국의 가상자산·결제망 규제 강화를 제안.",
-              "source": "AP",
-              "url": "https://apnews.com/article/europe-russia-sanctions-banks-crypto-visas-sports-ecad86868390f6602b346c70d1fa5757"
+              "text": "미국 무역대표부(USTR)의 주요 교역 상대 16곳 산업 과잉생산 관련 무역법 301조 조사 결과 발표가 임박했다는 Reuters의 24일 보도.",
+              "source": "Reuters",
+              "url": "https://new.streetinsider.com/Reuters/Trump%2Badministration%2Bset%2Bto%2Bunveil%2Bnew%2Btariffs%2Bafter%2Bprobe%C2%A0on%2Bexcess%2Bfactory%2Bcapacity,%2Bsources%2Bsay/27392941.html"
             },
             {
-              "text": "키이우 인디펜던트는 제3국 가상자산 규제의 키르기스스탄 적용 추진을 보도. 제재안 발효까지 EU 27개 회원국 승인 필요.",
-              "source": "The Kyiv Independent",
-              "url": "https://kyivindependent.com/eu-proposes-package-of-russian-sports-sanctions-visa-bans-and-a-krygyzstan-crypto-blockade/"
+              "text": "중국·한국·일본·EU 등이 조사 대상. 신규 관세율·대상 품목·시행일은 보도 시점 기준 미발표."
             }
           ]
         },
         {
-          "tag": "[리비아·미국]",
+          "tag": "[미국·카타르·이란]",
           "countries": [
-            "리비아",
-            "미국"
+            "미국",
+            "카타르",
+            "이란"
           ],
-          "title": "중동 공급 증가에 국제유가 하락",
+          "title": "미·이란 중재 의제에 호르무즈 통항",
           "bullets": [
             {
-              "text": "로이터가 23일 중동 원유 공급 증가와 리비아 샤라라 송유관 재가동으로 브렌트유와 미국 서부텍사스산원유(WTI) 선물이 3% 넘게 하락해 약 3개월 만의 최저치로 마감했다고 보도.",
-              "source": "Reuters",
-              "url": "https://ca.marketscreener.com/news/oil-holds-in-tight-range-as-gulf-attacks-sustain-risk-premium-ce785ed3d08bf124"
+              "text": "카타르 외교부의 24일 브리핑에서 미국·이란 양측과의 중재 접촉 지속 및 호르무즈해협 항행 자유 의제 확인.",
+              "source": "TASS",
+              "url": "https://tass.com/world/2223955"
             },
             {
-              "text": "브렌트유 배럴당 89.37달러로 3.46% 하락, WTI 배럴당 80.17달러로 3.88% 하락."
+              "text": "밴스 미국 부통령과 루비오 국무장관의 23일 워싱턴 카타르 총리 개별 면담에 대한 AP의 24일 보도. 미·이란 직접 협상 재개 일정 미확인.",
+              "source": "AP",
+              "url": "https://apnews.com/article/vance-rubio-qatar-iran-war-16e0c2cb05347cfcac068ec4aebb363f"
+            }
+          ]
+        },
+        {
+          "tag": "[러시아·우크라이나]",
+          "countries": [
+            "러시아",
+            "우크라이나"
+          ],
+          "title": "자포리자 공습과 민간인 피해",
+          "bullets": [
+            {
+              "text": "러시아의 우크라이나 자포리자 공습으로 민간인 2명 사망, 48명 부상에 대한 AP의 24일 보도.",
+              "source": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-libya-sea-drone-attacks-bfff959fb4c7415f9473b34e78a4f750"
+            },
+            {
+              "text": "겨울을 앞두고 우크라이나 전력 공급을 겨냥한 러시아 공습이 이어지는 가운데 미국 중재 종전 협상 병행."
             }
           ]
         }
@@ -175,37 +178,37 @@ window.REPORT_DATA = {
       "title": "④ 인근국",
       "items": [
         {
-          "tag": "[키르기스스탄·카자흐스탄]",
+          "tag": "[카자흐스탄]",
           "countries": [
-            "키르기스스탄",
             "카자흐스탄"
           ],
-          "title": "찰디바르 검문소 차량 통행 중단",
+          "title": "카자흐 국영철도 새 대표 임명",
           "bullets": [
             {
-              "text": "키르기스스탄 국경수비대가 카자흐스탄 측 시파타이 바티르 검문소 공사로 찰디바르 검문소의 카자흐스탄발 화물차 진입을 23일부터 제한하고 25일 현지 01시부터 모든 차량 통행을 중단한다고 발표.",
-              "source": "24.kg",
-              "url": "https://24.kg/article/pp-chaldybar-zakroyut-dlya-avtomobilej-s-25-noyabrya"
+              "text": "카자흐스탄 국부펀드 삼룩카지나의 24일 예르사인 나가스파예프 전 산업건설부 장관의 국영철도공사(KTZ) 대표 임명.",
+              "source": "Qazinform",
+              "url": "https://qazinform.com/news/bektenov-demands-stronger-anti-corruption-measures-at-kazakhstan-temir-zholy-under-new-management-8c2ef4"
             },
             {
-              "text": "보행 통과 허용. 차량은 악졸·악틸레크·켄불룬·톡목 검문소로 우회 가능. 카자흐스탄 측의 잠정 재개 시점은 2027년 말."
+              "text": "베크테노프 총리의 철도 화물 확대·인프라 현대화 지시. 다르바자–막타랄 및 모인티–키질자르 철도 구간은 2026년 말 준공 목표."
             }
           ]
         },
         {
-          "tag": "[우즈베키스탄]",
+          "tag": "[투르크메니스탄·러시아]",
           "countries": [
-            "우즈베키스탄"
+            "투르크메니스탄",
+            "러시아"
           ],
-          "title": "2027년 텅스텐 생산 확대 목표",
+          "title": "투르크·러 경제협력 의정서 서명",
           "bullets": [
             {
-              "text": "우즈베키스탄 경제재정부가 2027년 텅스텐 제품 생산 목표를 1,700톤으로 제시했다고 우즈데일리가 23일 보도. 2026년 생산 전망치 350톤의 약 4.9배.",
-              "source": "UzDaily.uz",
-              "url": "https://www.uzdaily.uz/en/uzbekistan-targets-1700-tonnes-of-tungsten-output-in-2027/"
+              "text": "투르크메니스탄과 러시아의 23일 모스크바 제14차 정부 간 경제협력위원회 의정서 서명에 대한 Trend의 24일 보도.",
+              "source": "Trend",
+              "url": "https://www.trend.az/casia/turkmenistan/4250165.html"
             },
             {
-              "text": "1~10월 텅스텐 제품 수출 실적은 123.6톤, 2,760만 달러. 치르치크 습식제련 설비 증설과 신규 정광 가공시설 가동은 계획 단계."
+              "text": "무역·연료·에너지·운송 협력 논의. 국제 남북운송회랑 동부 노선 확대는 양국 협의 사안으로, 개별 사업 계약·투자액 미발표."
             }
           ]
         }
@@ -218,40 +221,36 @@ window.REPORT_DATA = {
         {
           "tag": "",
           "countries": [
-            "한국",
-            "키르기스스탄",
+            "키르기스스탄"
+          ],
+          "title": "EBRD 개별 사업 약정",
+          "bullets": [
+            {
+              "text": "의회 위원회 심사 후 기본협정 서명 여부와 상하수도·도로 등 개별 사업별 금융 약정 공개 여부 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "",
+          "countries": [
+            "키르기스스탄"
+          ],
+          "title": "수상태양광 조달 일정",
+          "bullets": [
+            {
+              "text": "ADB 15MW 수상태양광 사업의 공사·기자재 조달 공고와 입찰 일정 확인 필요."
+            }
+          ]
+        },
+        {
+          "tag": "",
+          "countries": [
             "타지키스탄"
           ],
-          "title": "",
+          "title": "건자재 투자협정 후속",
           "bullets": [
             {
-              "text": "서울 CAREC 워크숍 종료 후 통관 데이터 연계 시범사업의 참여국과 일정 공개 여부 확인 필요."
-            }
-          ]
-        },
-        {
-          "tag": "",
-          "countries": [
-            "키르기스스탄",
-            "러시아"
-          ],
-          "title": "",
-          "bullets": [
-            {
-              "text": "EU 제22차 대러 제재안의 키르기스스탄 가상자산 서비스 적용 범위와 회원국 승인 일정 공개 여부 확인 필요."
-            }
-          ]
-        },
-        {
-          "tag": "",
-          "countries": [
-            "키르기스스탄",
-            "카자흐스탄"
-          ],
-          "title": "",
-          "bullets": [
-            {
-              "text": "찰디바르 통행 중단에 따른 악틸레크 등 대체 검문소의 화물차 통과 조건과 운영시간 확인 필요."
+              "text": "타지키스탄 하원이 승인한 건자재 투자협정 4건의 사업별 투자액과 착공·가동 일정 공개 여부 확인 필요."
             }
           ]
         }
@@ -259,7 +258,9 @@ window.REPORT_DATA = {
     }
   ],
   "notes": [
-    "원문 URL 미확인: (Reuters·Oil slumps to 3-month low on increased Middle East flows, Libyan pipeline restart).",
-    "타지키스탄 국제프로그램센터·고려대 협력 소식은 게시물 본문 접속 오류와 게시 시각 미확인으로 제외."
+    "원문 URL 미확인: Reuters·Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say.",
+    "한–타지키스탄 비즈니스 포럼 공고는 11월 24일 등록일 확인, 게시 시각 미확인으로 제외.",
+    "광주보건대 치기공 교육협약은 대학 발표에서 체결 사실 확인, 수집 구간 내 원문 게시 시각 미확인으로 제외.",
+    "부패 신고 시스템 출범 관련 확인된 UNDP 서울정책센터 영문 원문은 11월 19일 게시로 수집 기간 밖."
   ]
 };
